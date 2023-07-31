@@ -111,6 +111,27 @@ button:focus {
   box-shadow: none;
 }
 
+/* faq start */
+.faq-title h2 {
+  position: relative;
+  margin-bottom: 45px;
+  display: inline-block;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.faq-title h2::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  width: 60px;
+  height: 2px;
+  background: #007bff;
+  bottom: -25px;
+  margin-left: -30px;
+}
+/* faq end */
+
 .seo_sec_title h2 {
   font-size: 40px;
   font-weight: 600;
