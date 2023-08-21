@@ -88,7 +88,7 @@ class Footer extends Component {
               </div>
               <div className="col-lg-6 col-sm-5 text-right">
                 <p>
-                  Made with <i className="icon_heart"></i> <a href="https://github.com/redheet">RedThemes</a>
+                  Made with <i className="icon_heart"></i> <a href="https://github.com/iysaofficial">IYSA IT</a>
                 </p>
               </div>
             </div>
