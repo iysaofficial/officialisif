@@ -19,7 +19,6 @@ export const Home = () => (
     <Video />
     <SupportIntegration />
     <Process />
-    {/* <Subscribe FooterData={FooterData} /> */}
     <Footer FooterData={FooterData} />
   </div>
 );

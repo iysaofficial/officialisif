@@ -196,7 +196,7 @@ const ServiceData = {
         "27 Research Results of Balinese Students and Students Participate in ISIF International Event",
       bdescription:
         "This event was attended by participants from 11 countries to display the results of research or the work of students and students in the fields of science, technology, or the combination of the two.",
-      Month: "",
+      Month: "JUN",
       Year: "2019",
       Pagelink: "/PageNews1",
     },

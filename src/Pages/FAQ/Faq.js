@@ -1,11 +1,11 @@
 import React from "react";
 import CustomNavbar from "../../components/CustomNavbar";
 import Breadcrumb from "../../components/Breadcrumb";
-import NewsList from "../../components/News/NewsList";
+import FaqSection from "../../components/FAQ/FaqSection";
 import Footer from "../../components/Footer/Footer";
 import FooterData from "../../components/Footer/FooterData";
 
-const PageNewsList = () => {
+const Faq = () => {
   return (
     <div className="body_wrapper">
       <CustomNavbar
@@ -15,13 +15,12 @@ const PageNewsList = () => {
       />
       <Breadcrumb
         breadcrumbClass="breadcrumb_area"
-        imgName="breadcrumb/isif.jpg"
-        Ptitle="MEDIA COVERAGE"
-        Pdescription="Our News"
+        imgName="breadcrumb/banner_bg.png"
+        Ptitle="FAQ"
       />
-      <NewsList />
+      <FaqSection />
       <Footer FooterData={FooterData} />
     </div>
   );
 };
-export default PageNewsList;
+export default Faq;
