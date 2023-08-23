@@ -64,7 +64,6 @@ class CustomNavbar extends Component {
                       Home
                     </Link>
                   </li>
-
                   <li className="dropdown submenu nav-item">
                     <Link
                       to="./"
@@ -75,12 +74,22 @@ class CustomNavbar extends Component {
                       aria-haspopup="true"
                       aria-expanded="false"
                     >
-                      News
+                      Media Coverage
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
+                        <NavLink
+                          exact
+                          title="Service Details"
+                          className="nav-link"
+                          to="/PageNewsList"
+                        >
+                          News
+                        </NavLink>
+                      </li>
+                      <li className="nav-item">
                         <a
-                          href="https://drive.google.com/file/d/1WolMNh6iU3n_9soQZZepuRG0T6O4gqi2/view?usp=share_link"
+                          href="https://drive.google.com/file/d/11YZpbDYR5Fx867g94Lo2WL-Dl661__wE/view"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
@@ -88,60 +97,6 @@ class CustomNavbar extends Component {
                         >
                           Press Release 2022
                         </a>
-                      </li>
-                      <li className="nav-item">
-                        <NavLink
-                          title="Contac"
-                          className="nav-link"
-                          to="/Contact"
-                        >
-                          Contact
-                        </NavLink>
-                      </li>
-                      <li className="nav-item">
-                        <NavLink
-                          exact
-                          title="Service"
-                          className="nav-link"
-                          to="/About"
-                        >
-                          About
-                        </NavLink>
-                      </li>
-                      {/* <li className="nav-item">
-                        <NavLink exact title="Service" className="nav-link" to="/Faq">
-                          FAQ
-                        </NavLink>
-                      </li> */}
-                      <li className="nav-item">
-                        <NavLink
-                          exact
-                          title="Service Details"
-                          className="nav-link"
-                          to="/Process"
-                        >
-                          Process
-                        </NavLink>
-                      </li>
-                      <li className="nav-item">
-                        <NavLink
-                          exact
-                          title="Service Details"
-                          className="nav-link"
-                          to="/bloglist"
-                        >
-                          News
-                        </NavLink>
-                      </li>
-                      <li className="nav-item">
-                        <NavLink
-                          exact
-                          title="Service Details"
-                          className="nav-link"
-                          to="/bloglist"
-                        >
-                          Gallery
-                        </NavLink>
                       </li>
                     </ul>
                   </li>
@@ -158,24 +113,15 @@ class CustomNavbar extends Component {
                       List of Winner
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
-                      {/* <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/1ilWuOn5-sOq2yY7S-vD5WyEc53S1RS4N/view?usp=sharing"
-                          title="Guide Book"
-                          className="nav-link"
-                        >
-                          Guide Book
-                        </a>
-                      </li> */}
                       <li className="nav-item">
                         <a
-                          href="https://docs.google.com/spreadsheets/d/1X1brvUOx5QcAO9_mT7dTmqEBRrgSKmXn/edit#gid=1957635472"
+                          href="https://docs.google.com/spreadsheets/d/1O-JC8bqxfCf_VdDyyaOWaLJbuYQAdNzHEgD9qU-nnB4/edit?usp=drive_link"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
                           className="nav-link"
                         >
-                          List of Winner 2020
+                          List of Winner 2022
                         </a>
                       </li>
                       <li className="nav-item">
@@ -191,62 +137,17 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
-                          href="https://docs.google.com/spreadsheets/d/1O-JC8bqxfCf_VdDyyaOWaLJbuYQAdNzHEgD9qU-nnB4/edit?usp=drive_link"
+                          href="https://docs.google.com/spreadsheets/d/1X1brvUOx5QcAO9_mT7dTmqEBRrgSKmXn/edit#gid=1957635472"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
                           className="nav-link"
                         >
-                          List of Winner 2022
+                          List of Winner 2020
                         </a>
                       </li>
-                      {/* <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/198VNhMZs07cXrEuDiO3A9hOwCqd_d20X/view?usp=share_link"
-                          title="Final Result"
-                          className="nav-link"
-                        >
-                          Final Result
-                        </a>
-                      </li> */}
-                      {/* <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/drive/folders/1IC52IleDduUCMykdzUKdP7IFJVGUVuLk?usp=sharing"
-                          title="Supervisor"
-                          className="nav-link"
-                        >
-                          Supervisor
-                        </a>
-                      </li> */}
                     </ul>
                   </li>
-                  {/* <li className="dropdown submenu nav-item">
-                    <Link
-                      to="./"
-                      title="Pages"
-                      className="dropdown-toggle nav-link"
-                      data-toggle="dropdown"
-                      role="button"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                    >
-                      News
-                    </Link>
-                    <ul role="menu" className=" dropdown-menu">
-                      <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/1WolMNh6iU3n_9soQZZepuRG0T6O4gqi2/view?usp=share_link"
-                          target="_blank"
-                          rel='noreferrer noopener'
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          Press Release 2022
-                        </a>
-                      </li>
-                    </ul>
-                  </li> */}
-
                   <li className="dropdown submenu nav-item">
                     <Link
                       to="./"
@@ -262,13 +163,13 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
-                          href="https://drive.google.com/drive/folders/15ZIgSohXPRl7O7zrqyDR4oCurHq-AeR_?usp=drive_link"
+                          href="https://drive.google.com/drive/folders/1znfA6pHSrF3qbg7gWzXxulM2666EAK-u?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Curation"
                           className="nav-link"
                         >
-                          Curation 2020
+                          Curation 2022
                         </a>
                       </li>
                       <li className="nav-item">
@@ -284,96 +185,17 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
-                          href="https://drive.google.com/drive/folders/1znfA6pHSrF3qbg7gWzXxulM2666EAK-u?usp=sharing"
+                          href="https://drive.google.com/drive/folders/15ZIgSohXPRl7O7zrqyDR4oCurHq-AeR_?usp=drive_link"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Curation"
                           className="nav-link"
                         >
-                          Curation 2022
+                          Curation 2020
                         </a>
                       </li>
                     </ul>
                   </li>
-                  {/* <li className="dropdown submenu nav-item">
-                    <Link
-                      title="Gallery"
-                      className="dropdown-toggle nav-link"
-                      data-toggle="dropdown"
-                      role="button"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                      to="#"
-                    >
-                      Gallery
-                    </Link>
-                    <ul role="menu" className=" dropdown-menu"> */}
-                  {/* <li className="nav-item">
-                        <NavLink title="Portfolio 2" className="nav-link" to="/Portfolio-2col">
-                          Portfolio 2col
-                        </NavLink>
-                      </li>
-                      <li className="nav-item">
-                        <NavLink title="Portfolio 3" className="nav-link" to="/Portfolio-3col">
-                          Portfolio 3col
-                        </NavLink>
-                      </li> */}
-                  {/* <li className="nav-item">
-                        <NavLink title="Photo" className="nav-link" to="/GalleryF">
-                          Photo
-                        </NavLink>
-                      </li>
-                      <li className="nav-item">
-                        <NavLink title="Video" className="nav-link" to="/gallery-video">
-                          Video
-                        </NavLink>
-                      </li> */}
-                  {/* <li className="nav-item">
-                        <NavLink title="PortfolioSingle" className="nav-link" to="/PortfolioSingle">
-                          Portfolio Single
-                        </NavLink>
-                      </li> */}
-                  {/* </ul>
-                  </li> */}
-                  {/* <li className="dropdown submenu nav-item">
-                    <Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">
-                      NRTC 2021
-                    </Link>
-                    <ul role="menu" className=" dropdown-menu">
-                      <li className="nav-item">
-                        <a href="https://forms.gle/ucc4MVJLb8mBVnfG8" title="Registration" className="nav-link">
-                          Registration
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a href="https://drive.google.com/drive/folders/1dcpGi8hsvZ0g5DGg1U8ySKMMdNsQ2ypS?usp=sharing" title="Guide Book" className="nav-link">
-                          Guide Book
-                        </a>
-                      </li>
-                    </ul>
-                  </li>
-                  <li className="dropdown submenu nav-item">
-                    <Link title="Pages" className="dropdown-toggle nav-link" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" to="#">
-                      IRTC 2021
-                    </Link>
-                    <ul role="menu" className=" dropdown-menu">
-                      <li className="nav-item">
-                        <a href="http://bit.ly/Registration-Form-IRTC-2021" title="Registration" className="nav-link">
-                          Registration
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a href="https://drive.google.com/drive/folders/1ZINuXYdAVO1Dp_o-t9roS8FRAiMDvkuW?usp=sharing" title="Guide Book" className="nav-link">
-                          Guide Book
-                        </a>
-                      </li>
-                    </ul>
-                  </li> */}
-                  {/* <li className="nav-item">
-                    <NavLink title="Contac" className="nav-link" to="/.">
-                      Curation
-                    </NavLink>
-                  </li> */}
                   <li className="dropdown submenu nav-item">
                     <Link
                       to="./"
@@ -400,16 +222,6 @@ class CustomNavbar extends Component {
                       </li>
                     </ul>
                   </li>
-                  {/* <li className="nav-item">
-                      <a href="https://drive.google.com/drive/folders/1cAVrGoPw5WI-VhIREswrMP_l7_w5zpX1?usp=share_link" title="Certificate" className="nav-link">
-                        Certificate
-                      </a>
-                      <ul>
-                        <li>
-                          <a href="https://drive.google.com/drive/folders/1cAVrGoPw5WI-VhIREswrMP_l7_w5zpX1?usp=share_link"></a>
-                        </li>
-                      </ul>
-                    </li> */}
                   <li className="nav-item">
                     <NavLink
                       exact
@@ -424,36 +236,63 @@ class CustomNavbar extends Component {
                     <a
                       title="Winner"
                       className="nav-link"
+                      target="-blank"
                       href="https://drive.google.com/file/d/1xtyOBFyD8cHtdTPSPfZfgWGj8DZ2r3H7/view?usp=share_link"
                     >
                       Guide Book
                     </a>
                   </li>
                   <li className="nav-item">
-                    <a
-                      title="Winner"
-                      className="nav-link"
-                      href="https://bit.ly/REGISTRATION_ISIF_2023"
-                    >
-                      Registration
-                    </a>
+                    <NavLink title="Contac" className="nav-link" to="/Contact">
+                      Contact
+                    </NavLink>
                   </li>
-                  {/* <li className="nav-item">
-                    <a
-                      title="Winner"
-                      className="nav-link"
-                      href="https://drive.google.com/drive/folders/1h04ED_n4wkPIHJUyoJIbnebyijpg5tTm?usp=sharing"
+                  <li className="dropdown submenu nav-item">
+                    <Link
+                      to="./"
+                      title="download"
+                      className="dropdown-toggle nav-link"
+                      data-toggle="dropdown"
+                      role="button"
+                      aria-haspopup="true"
+                      aria-expanded="false"
                     >
-                      Winner
-                    </a>
-                  </li> */}
+                      Galery
+                    </Link>
+                    <ul role="menu" className=" dropdown-menu">
+                      <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/11CHleI2R5Y5-oxZ0b8p5CIZAMvc8SXl0"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Galery 2022
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/1g-dfsRAEqqLAVmeO3uIxtUyjE8C0UB_s"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Galery 2021
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/1HbPL_lBUi4B2Z5p1PRyirqZ1imp8BaNt"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Galery 2019
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
                 </ul>
-                {/* <a
-                  className={`btn_get btn_hover ${hbtnClass}`}
-                  href="https://bit.ly/REGISTRATION_ISIF_2022"
-                >
-                  ISIF Registration
-                </a> */}
               </div>
             </div>
           </nav>

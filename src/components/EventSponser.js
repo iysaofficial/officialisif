@@ -1,5 +1,5 @@
-import React from 'react';
-import EventSponserLogo from './EventSponserLogo';
+import React from "react";
+import EventSponserLogo from "./EventSponserLogo";
 
 const EventSponser = () => {
   return (
@@ -17,12 +17,9 @@ const EventSponser = () => {
                 <h4 className="h_head sponser_title">Organized By</h4>
               </div>
               <div className="col-lg-9 col-md-8">
-                <div className="row">
+                <div className="row ">
                   <EventSponserLogo url=".#" image="iysa.png" />
-                  {/* <EventSponserLogo url=".#" image="i3l.jpg" /> */}
                   <EventSponserLogo url=".#" image="unud.png" />
-                  {/* <EventSponserLogo url=".#" image="buca.png" /> */}
-                  {/* <EventSponserLogo url=".#" image="logo_02.png" /> */}
                 </div>
               </div>
             </div>

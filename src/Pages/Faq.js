@@ -3,7 +3,6 @@ import CustomNavbar from "../components/CustomNavbar";
 import Breadcrumb from "../components/Breadcrumb";
 import FaqSection from "../components/FaqSection";
 import Footer from "../components/Footer/Footer";
-import FooterTwo from "../components/Footer/FooterTwo";
 import FooterData from "../components/Footer/FooterData";
 
 const Faq = () => {

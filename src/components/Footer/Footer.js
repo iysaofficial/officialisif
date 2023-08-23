@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 // import { Link } from 'react-router-dom';
-import Reveal from 'react-reveal/Reveal';
+import Reveal from "react-reveal/Reveal";
 class Footer extends Component {
   render() {
     let FooterData = this.props.FooterData;
@@ -12,18 +12,15 @@ class Footer extends Component {
               {FooterData.CompanyWidget.map((widget) => {
                 return (
                   <Reveal effect="fadeInLeft" duration={500} key={1}>
-                    <div className="col-lg-3 col-md-6">
-                      <div className="f_widget company_widget wow fadeInLeft" data-wow-delay="0.2s">
-                        <h3 className="f-title f_600 t_color f_size_18">{widget.title}</h3>
+                    <div className="col-lg-3 col-md-6" target="-blank">
+                      <div
+                        className="f_widget company_widget wow fadeInLeft"
+                        data-wow-delay="0.2s"
+                      >
+                        <h3 className="f-title f_600 t_color f_size_18">
+                          {widget.title}
+                        </h3>
                         <p>{widget.description}</p>
-                        {/* <form action="#" className="f_subscribe_two mailchimp" method="post">
-                          <input type="text" name="EMAIL" className="form-control memail" placeholder="Email" />
-                          <button className="btn btn_get btn_get_two" type="submit">
-                            Subscribe
-                          </button>
-                          <p className="mchimp-errmessage" style={{ display: 'none' }}></p>
-                          <p className="mchimp-sucmessage" style={{ display: 'none' }}></p>
-                        </form> */}
                       </div>
                     </div>
                   </Reveal>
@@ -33,14 +30,21 @@ class Footer extends Component {
                 return (
                   <Reveal effect="fadeInLeft" duration={500} key={widget.id}>
                     <div className="col-lg-3 col-md-6">
-                      <div className="f_widget about-widget pl_70 wow fadeInLeft" data-wow-delay="0.4s">
-                        <h3 className="f-title f_600 t_color f_size_18">{widget.title}</h3>
+                      <div
+                        className="f_widget about-widget pl_70 wow fadeInLeft"
+                        data-wow-delay="0.4s"
+                      >
+                        <h3 className="f-title f_600 t_color f_size_18">
+                          {widget.title}
+                        </h3>
                         <ul className="list-unstyled f_list">
                           {widget.menuItems.map((item) => {
                             return (
                               <li key={item.id}>
                                 <a href={item.url}>{item.text}</a>
-                                <a href="https://drive.google.com/file/d/1ilWuOn5-sOq2yY7S-vD5WyEc53S1RS4N/view?usp=sharing">{item.data}</a>
+                                <a href={item.link} target="-blank">
+                                  {item.data}
+                                </a>
                               </li>
                             );
                           })}
@@ -54,12 +58,17 @@ class Footer extends Component {
                 return (
                   <Reveal effect="fadeInLeft" duration={500} key={widget.id}>
                     <div className="col-lg-3 col-md-6">
-                      <div className="f_widget social-widget pl_70 wow fadeInLeft" data-wow-delay="0.4s">
-                        <h3 className="f-title f_600 t_color f_size_18">{widget.title}</h3>
+                      <div
+                        className="f_widget social-widget pl_70 wow fadeInLeft"
+                        data-wow-delay="0.4s"
+                      >
+                        <h3 className="f-title f_600 t_color f_size_18">
+                          {widget.title}
+                        </h3>
                         <div className="f_social_icon">
                           {widget.menuItems.map((item) => {
                             return (
-                              <a href={item.url} key={item.id}>
+                              <a href={item.url} key={item.id} target="-blink">
                                 <i className={item.fb}></i>
                                 <i className={item.google}></i>
                                 <i className={item.ig}></i>
@@ -88,7 +97,8 @@ class Footer extends Component {
               </div>
               <div className="col-lg-6 col-sm-5 text-right">
                 <p>
-                  Made with <i className="icon_heart"></i> <a href="https://github.com/iysaofficial">IYSA IT</a>
+                  Made with <i className="icon_heart"></i>{" "}
+                  <a href="https://github.com/iysaofficial">IYSA IT</a>
                 </p>
               </div>
             </div>
