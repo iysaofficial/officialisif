@@ -222,31 +222,6 @@ class CustomNavbar extends Component {
                       </li>
                     </ul>
                   </li>
-                  <li className="nav-item">
-                    <NavLink
-                      exact
-                      title="Service"
-                      className="nav-link"
-                      to="/Faq"
-                    >
-                      FAQ
-                    </NavLink>
-                  </li>
-                  <li className="nav-item">
-                    <a
-                      title="Winner"
-                      className="nav-link"
-                      target="-blank"
-                      href="https://drive.google.com/file/d/1xtyOBFyD8cHtdTPSPfZfgWGj8DZ2r3H7/view?usp=share_link"
-                    >
-                      Guide Book
-                    </a>
-                  </li>
-                  <li className="nav-item">
-                    <NavLink title="Contac" className="nav-link" to="/Contact">
-                      Contact
-                    </NavLink>
-                  </li>
                   <li className="dropdown submenu nav-item">
                     <Link
                       to="./"
@@ -282,6 +257,16 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
+                          href="https://drive.google.com/drive/u/2/folders/1LbbxZ5RBX3BC1qLgzwGNVczIWjIGiaXq"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Galery 2020
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
                           href="https://drive.google.com/drive/folders/1HbPL_lBUi4B2Z5p1PRyirqZ1imp8BaNt"
                           target="_blank"
                           rel="noreferrer noopener"
@@ -291,6 +276,31 @@ class CustomNavbar extends Component {
                         </a>
                       </li>
                     </ul>
+                  </li>
+                  <li className="nav-item">
+                    <NavLink
+                      exact
+                      title="Service"
+                      className="nav-link"
+                      to="/Faq"
+                    >
+                      FAQ
+                    </NavLink>
+                  </li>
+                  <li className="nav-item">
+                    <a
+                      title="Winner"
+                      className="nav-link"
+                      target="-blank"
+                      href="https://drive.google.com/file/d/1xtyOBFyD8cHtdTPSPfZfgWGj8DZ2r3H7/view?usp=share_link"
+                    >
+                      Guide Book
+                    </a>
+                  </li>
+                  <li className="nav-item">
+                    <NavLink title="Contac" className="nav-link" to="/Contact">
+                      Contact
+                    </NavLink>
                   </li>
                 </ul>
               </div>

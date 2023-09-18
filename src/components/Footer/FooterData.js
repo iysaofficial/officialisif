@@ -24,18 +24,8 @@ const FooterData = {
         },
         {
           id: 3,
-          url: "/Process",
-          text: "Registration Process",
-        },
-        {
-          id: 4,
           link: "https://drive.google.com/file/d/1xtyOBFyD8cHtdTPSPfZfgWGj8DZ2r3H7/view",
           data: "Guide Book",
-        },
-        {
-          id: 5,
-          link: "https://docs.google.com/spreadsheets/d/1O-JC8bqxfCf_VdDyyaOWaLJbuYQAdNzHEgD9qU-nnB4/edit#gid=0",
-          data: "List Of Winner 2022",
         },
       ],
     },
