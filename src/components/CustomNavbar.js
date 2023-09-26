@@ -292,13 +292,13 @@ class CustomNavbar extends Component {
                       title="Winner"
                       className="nav-link"
                       target="-blank"
-                      href="https://drive.google.com/file/d/1ZC4oD-iILbRGOnATqPAoiex6jzsipm__/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1NFLr4irThUlQha7oiyv3aEaHKy_BNgzQ/view?usp=sharing"
                     >
                       Guide Book
                     </a>
                   </li>
                   <li className="nav-item">
-                    <NavLink title="Contac" className="nav-link" to="/Contact">
+                    <NavLink title="Contact" className="nav-link" to="/Contact">
                       Contact
                     </NavLink>
                   </li>
