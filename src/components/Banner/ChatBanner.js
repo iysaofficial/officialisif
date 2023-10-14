@@ -15,10 +15,10 @@ const ChatBanner = () => {
         <Carousel.Caption>
           <a
             className="btn-primary btn"
-            href="https://bit.ly/REGISTRATION_ISIF_2023"
+            href="/"
             target="-blank"
           >
-            Registration Here
+            Close Registration  
           </a>
           <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
