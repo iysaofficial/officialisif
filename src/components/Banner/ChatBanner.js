@@ -16,7 +16,6 @@ const ChatBanner = () => {
           <a
             className="btn-primary btn"
             href="/"
-            target="-blank"
           >
             Close Registration  
           </a>
@@ -28,10 +27,9 @@ const ChatBanner = () => {
         <Carousel.Caption>
           <a
             className="btn-primary btn"
-            href="https://bit.ly/REGISTRATION_ISIF_2023"
-            target="-blank"
+            href="/"
           >
-            Registration Here
+            Close Registration 
           </a>
           <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
@@ -41,10 +39,9 @@ const ChatBanner = () => {
         <Carousel.Caption>
           <a
             className="btn-primary btn"
-            href="https://bit.ly/REGISTRATION_ISIF_2023"
-            target="-blank"
+            href="/"
           >
-            Registration Here
+            Close Registration 
           </a>
           <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
