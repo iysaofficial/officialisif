@@ -47,7 +47,7 @@ const FaqSection = () => {
                       data-parent="#accordion"
                     >
                       <div className="card-body">
-                        The committee will send LoA and Invoice no later than 7
+                        The committee will send LoA and Invoice no later than 14
                         working days after you register. We will send the LoA
                         and Invoice to the team leaders email, so make sure you
                         include a valid and correct email address!
