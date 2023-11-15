@@ -17,7 +17,7 @@ const ChatBanner = () => {
             className="btn-primary btn"
             href="/"
           >
-            Close Registration  
+            Coming Soon 2024 
           </a>
           <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
@@ -29,7 +29,7 @@ const ChatBanner = () => {
             className="btn-primary btn"
             href="/"
           >
-            Close Registration 
+            Coming Soon 2024 
           </a>
           <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
@@ -41,7 +41,7 @@ const ChatBanner = () => {
             className="btn-primary btn"
             href="/"
           >
-            Close Registration 
+            Coming Soon 2024 
           </a>
           <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>

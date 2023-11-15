@@ -235,6 +235,16 @@ class CustomNavbar extends Component {
                       Galery
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
+                    <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/11phBTa4qXqwNViMttlydJ_lT8M4pjP-G?usp=drive_link"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Galery 2023
+                        </a>
+                      </li>
                       <li className="nav-item">
                         <a
                           href="https://drive.google.com/drive/folders/11CHleI2R5Y5-oxZ0b8p5CIZAMvc8SXl0"
