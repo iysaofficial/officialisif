@@ -113,6 +113,17 @@ class CustomNavbar extends Component {
                       List of Winner
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
+                    <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/file/d/1JQef-ASvitBeNrnxebHdH0n_ULLsN5pF/view?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Press Release"
+                          className="nav-link"
+                        >
+                          List of Winner 2023
+                        </a>
+                      </li>
                       <li className="nav-item">
                         <a
                           href="https://docs.google.com/spreadsheets/d/1O-JC8bqxfCf_VdDyyaOWaLJbuYQAdNzHEgD9qU-nnB4/edit?usp=drive_link"
