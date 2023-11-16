@@ -170,7 +170,27 @@ const ServiceData = {
   // edit this line to generate new bloglist
   NewsList: [
     {
-      id: "01",
+      id: "1",
+      image: "News/KolabUNUDdanIYSA.WebP",
+      btitle: "ISIF 2023 Held in Collaboration with IYSA, Officially Closed",
+      bdescription:
+        "The 2023 International Science and Invention Fair (ISIF) activity held in collaboration with the Indonesian Young Scientist Association (IYSA) and Udayana University through the Office of International Affairs (KUI), was officially closed in a ceremony at the Widya Sabha Auditorium, Bukit Jimbaran Campus, Badung on Friday (11/10/2023).",
+      Month: "NOV",
+      Year: "2023",
+      Pagelink: "/PageNews4",
+    },
+    {
+      id: "2",
+      image: "News/JuriSaatMelakukanPenilaian.WebP",
+      btitle: "Followed by 685 Teams from 28 Countries, Udayana University and IYSA Collaborate to Hold the 5th ISIF",
+      bdescription:
+        "Udayana University (UNUD) hosted four prestigious national and international events, namely the International Science and Invention Fair (ISIF), Invention and Innovation Fair (IIF), National Research Teacher Competition (NRTC), and International Research Teacher Competition (IRTC) 2023",
+      Month: "NOV",
+      Year: "2023",
+      Pagelink: "/PageNews5",
+    },
+    {
+      id: "",
       image: "News/AkuntansiUnila.WebP",
       btitle: "Unila Accounting Team Wins Gold at ISIF 2022",
       bdescription:
@@ -180,7 +200,7 @@ const ServiceData = {
       Pagelink: "/PageNews2",
     },
     {
-      id: "02",
+      id: "",
       image: "News/MahasiwaUnsoed.WebP",
       btitle: "FISIP Unsoed Student Team wins gold medal at ISIF 2022",
       bdescription:
@@ -190,7 +210,7 @@ const ServiceData = {
       Pagelink: "/PageNews3",
     },
     {
-      id: "3",
+      id: "",
       image: "blog-grid/2019.jpg",
       btitle:
         "27 Research Results of Balinese Students and Students Participate in ISIF International Event",
@@ -235,6 +255,28 @@ const ServiceData = {
       LinkNews:
         "https://jateng.antaranews.com/berita/470849/tim-mahasiswa-fisip-unsoed-raih-medali-emas-di-isif-2022",
       Year: "2022",
+    },
+  ],
+  News4: [
+    {
+      id: "01",
+      image: "News/KolabUNUDdanIYSA.WebP",
+      Author: "",
+      Title: "ISIF 2023 Held in Collaboration with IYSA, Officially Closed",
+      LinkNews:
+        "https://lenteraesai.id/2023/11/10/isif-2023-yang-diselenggarakan-atas-kolaborasi-unud-dengan-iysa-resmi-ditutup/",
+      Year: "2023",
+    },
+  ],
+  News5: [
+    {
+      id: "01",
+      image: "News/JuriSaatMelakukanPenilaian.WebP",
+      Author: "",
+      Title: "Followed by 685 Teams from 28 Countries, Udayana University and IYSA Collaborate to Hold the 5th ISIF",
+      LinkNews:
+        "https://updatebali.com/diikuti-685-tim-dari-28-negara-universitas-udayana-dan-iysa-berkolaborasi-gelar-isif-ke-5/",
+      Year: "2023",
     },
   ],
 

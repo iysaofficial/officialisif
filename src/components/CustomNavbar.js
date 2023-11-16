@@ -89,6 +89,15 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
+                          href="https://drive.google.com/file/d/1tCNqnQH-uL4rZ3Sw-uhiomupn5ZTtMjd/view?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Press Release"
+                          className="nav-link"
+                        >
+                          Press Release 2023
+                        </a>
+                        {/* <a
                           href="https://drive.google.com/file/d/11YZpbDYR5Fx867g94Lo2WL-Dl661__wE/view"
                           target="_blank"
                           rel="noreferrer noopener"
@@ -96,7 +105,7 @@ class CustomNavbar extends Component {
                           className="nav-link"
                         >
                           Press Release 2022
-                        </a>
+                        </a> */}
                       </li>
                     </ul>
                   </li>
@@ -222,10 +231,10 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
-                          href="https://drive.google.com/drive/folders/1cAVrGoPw5WI-VhIREswrMP_l7_w5zpX1?usp=share_link"
+                          href="https://drive.google.com/drive/folders/1TkfNsAgPQ4GWrMZrH2EbOL4XjMj3nP77?usp=drive_link"
                           target="_blank"
                           rel="noreferrer noopener"
-                          title="Press Release"
+                          title="Certificate Supervisor"
                           className="nav-link"
                         >
                           Certificate Supervisor
