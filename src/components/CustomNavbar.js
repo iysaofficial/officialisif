@@ -252,7 +252,7 @@ class CustomNavbar extends Component {
                       aria-haspopup="true"
                       aria-expanded="false"
                     >
-                      Galery
+                      Gallery
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
                     <li className="nav-item">
@@ -262,7 +262,7 @@ class CustomNavbar extends Component {
                           rel="noreferrer noopener"
                           className="nav-link"
                         >
-                          Galery 2023
+                          Gallery 2023
                         </a>
                       </li>
                       <li className="nav-item">
@@ -272,7 +272,7 @@ class CustomNavbar extends Component {
                           rel="noreferrer noopener"
                           className="nav-link"
                         >
-                          Galery 2022
+                          Gallery 2022
                         </a>
                       </li>
                       <li className="nav-item">
@@ -282,7 +282,7 @@ class CustomNavbar extends Component {
                           rel="noreferrer noopener"
                           className="nav-link"
                         >
-                          Galery 2021
+                          Gallery 2021
                         </a>
                       </li>
                       <li className="nav-item">
@@ -292,7 +292,7 @@ class CustomNavbar extends Component {
                           rel="noreferrer noopener"
                           className="nav-link"
                         >
-                          Galery 2020
+                          Gallery 2020
                         </a>
                       </li>
                       <li className="nav-item">
@@ -302,7 +302,7 @@ class CustomNavbar extends Component {
                           rel="noreferrer noopener"
                           className="nav-link"
                         >
-                          Galery 2019
+                          Gallery 2019
                         </a>
                       </li>
                     </ul>

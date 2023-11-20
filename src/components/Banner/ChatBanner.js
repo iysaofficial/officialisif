@@ -1,8 +1,8 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import image1 from "../../img/background/bg_1.jpg";
-import image2 from "../../img/background/bg_2.jpg";
-import image3 from "../../img/background/bg_3.jpg";
+import image1 from "../../img/background/img.WebP";
+import image2 from "../../img/background/img2.WebP";
+import image3 from "../../img/background/img3.WebP";
 
 const ChatBanner = () => {
   const mystyle = {

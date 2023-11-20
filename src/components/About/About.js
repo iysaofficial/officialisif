@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="container">
       <div className="chat_get_started_content text-center">
-        <h2 className="wow fadeInUp mt-3" data-wow-delay="0.2s">
+        <h2 className="wow fadeInUp mt-5" data-wow-delay="0.2s">
           Background
         </h2>
         <p className="ratakirkan">
