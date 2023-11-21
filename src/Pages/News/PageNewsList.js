@@ -15,7 +15,7 @@ const PageNewsList = () => {
       />
       <Breadcrumb
         breadcrumbClass="breadcrumb_area"
-        imgName="breadcrumb/isif.jpg"
+        imgName="background/img2.WebP"
         Ptitle="MEDIA COVERAGE"
         Pdescription="Our News"
       />

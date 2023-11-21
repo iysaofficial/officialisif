@@ -170,7 +170,17 @@ const ServiceData = {
   // edit this line to generate new bloglist
   NewsList: [
     {
-      id: "1",
+      id: "",
+      image: "News/Iran.WebP",
+      btitle: "Iranian students grab colorful medals in ISIF 2023",
+      bdescription:
+        "The competition was held in Bali, Indonesia, from November 7 to 11. Udayana University (Unud) collaborated with the Indonesian Young Scientist Association (IYSA) to hold the 2023 ISIF at the Widyasabha Auditorium, Unud Jimbaran Campus.",
+      Month: "NOV",
+      Year: "2023",
+      Pagelink: "/PageNews6",
+    },
+    {
+      id: "",
       image: "News/KolabUNUDdanIYSA.WebP",
       btitle: "ISIF 2023 Held in Collaboration with IYSA, Officially Closed",
       bdescription:
@@ -180,7 +190,7 @@ const ServiceData = {
       Pagelink: "/PageNews4",
     },
     {
-      id: "2",
+      id: "",
       image: "News/JuriSaatMelakukanPenilaian.WebP",
       btitle: "Followed by 685 Teams from 28 Countries, Udayana University and IYSA Collaborate to Hold the 5th ISIF",
       bdescription:
@@ -276,6 +286,17 @@ const ServiceData = {
       Title: "Followed by 685 Teams from 28 Countries, Udayana University and IYSA Collaborate to Hold the 5th ISIF",
       LinkNews:
         "https://updatebali.com/diikuti-685-tim-dari-28-negara-universitas-udayana-dan-iysa-berkolaborasi-gelar-isif-ke-5/",
+      Year: "2023",
+    },
+  ],
+  News6: [
+    {
+      id: "01",
+      image: "News/Iran.WebP",
+      Author: "",
+      Title: "Iranian students grab colorful medals in ISIF 2023",
+      LinkNews:
+        "https://www.tehrantimes.com/news/491326/Iranian-students-grab-colorful-medals-in-ISIF-2023",
       Year: "2023",
     },
   ],

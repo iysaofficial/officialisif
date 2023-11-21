@@ -15,7 +15,7 @@ const Faq = () => {
       />
       <Breadcrumb
         breadcrumbClass="breadcrumb_area"
-        imgName="breadcrumb/banner_bg.png"
+        imgName="background/img2.WebP"
         Ptitle="FAQ"
       />
       <FaqSection />

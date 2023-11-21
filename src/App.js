@@ -12,6 +12,7 @@ import PageNews2 from "./Pages/News/PageNews2";
 import PageNews3 from "./Pages/News/PageNews3";
 import PageNews4 from "./Pages/News/PageNews4";
 import PageNews5 from "./Pages/News/PageNews5";
+import PageNews6 from "./Pages/News/PageNews6";
 
 // Import FAQ
 import Faq from "./Pages/FAQ/Faq";
@@ -36,6 +37,7 @@ class App extends Component {
           <ScrollToTopRoute path="/PageNews3" component={PageNews3} />
           <ScrollToTopRoute path="/PageNews4" component={PageNews4} />
           <ScrollToTopRoute path="/PageNews5" component={PageNews5} />
+          <ScrollToTopRoute path="/PageNews6" component={PageNews6} />
 
           <ScrollToTopRoute path="/Faq" component={Faq} />
           <ScrollToTopRoute component={NotFound} />
