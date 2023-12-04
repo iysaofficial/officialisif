@@ -124,7 +124,7 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                     <li className="nav-item">
                         <a
-                          href="https://drive.google.com/file/d/1JQef-ASvitBeNrnxebHdH0n_ULLsN5pF/view?usp=sharing"
+                          href="https://drive.google.com/file/d/1N0EJupTNEa6DpV3tiHbTMLHHCP4JltsG/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
