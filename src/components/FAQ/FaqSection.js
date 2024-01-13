@@ -33,8 +33,8 @@ const FaqSection = () => {
                           aria-expanded="true"
                           aria-controls="collapseOne"
                         >
-                          Minsa, when will we get our LoA and Invoice? Where was
-                          it sent?<i className="ti-plus"></i>
+                          Minsa, when will we get our LoA? Where will it be
+                          sent?<i className="ti-plus"></i>
                           <i className="ti-minus"></i>
                         </button>
                       </h5>
@@ -47,10 +47,10 @@ const FaqSection = () => {
                       data-parent="#accordion"
                     >
                       <div className="card-body">
-                        The committee will send LoA and Invoice no later than 14
-                        working days after you register. We will send the LoA
-                        and Invoice to the team leaders email, so make sure you
-                        include a valid and correct email address!
+                        After we receive your registration, we will send a
+                        confirmation email within 1X24 hours, and for LoA we
+                        will send it to the team leader's email address within
+                        3X24 hours after registration.
                       </div>
                     </div>
                   </div>
@@ -64,8 +64,8 @@ const FaqSection = () => {
                           aria-expanded="false"
                           aria-controls="collapseTwo"
                         >
-                          Minsa, I registered a week ago but how come I have not
-                          received the LoA and Invoice yet?
+                          Minsa, I registered one week ago, but why haven't I
+                          received my LoA and Invoice yet?
                           <i className="ti-plus"></i>
                           <i className="ti-minus"></i>
                         </button>
@@ -78,9 +78,9 @@ const FaqSection = () => {
                       data-parent="#accordion"
                     >
                       <div className="card-body">
-                        Try checking the spam folder in your team leaders email,
-                        maybe the email from the IYSA team will go to the spam
-                        folder
+                        Try checking the spam folder on your team leader's
+                        email, maybe the email from the IYSA team went to the
+                        spam folder.
                       </div>
                     </div>
                   </div>
@@ -94,7 +94,7 @@ const FaqSection = () => {
                           aria-expanded="false"
                           aria-controls="collapseThree"
                         >
-                          Where to upload the competition file, Minsa?
+                          Where do you upload the competition file?
                           <i className="ti-plus"></i>
                           <i className="ti-minus"></i>
                         </button>
@@ -107,9 +107,9 @@ const FaqSection = () => {
                       data-parent="#accordion"
                     >
                       <div className="card-body">
-                        Upload the files requested by the committee to the
-                        Google Drive link that we have included in your LoA,
-                        make sure you read the LoA carefully, OK!
+                        The drive link for uploading files and the link for
+                        uploading proof of payment will be included in the
+                        invoice. You will get an invoice like this
                       </div>
                     </div>
                   </div>
