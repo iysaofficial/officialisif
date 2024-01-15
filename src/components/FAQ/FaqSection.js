@@ -109,7 +109,7 @@ const FaqSection = () => {
                       <div className="card-body">
                         The drive link for uploading files and the link for
                         uploading proof of payment will be included in the
-                        invoice. You will get an invoice like this
+                        invoice.
                       </div>
                     </div>
                   </div>
