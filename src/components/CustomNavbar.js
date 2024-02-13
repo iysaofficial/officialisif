@@ -124,7 +124,7 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                     <li className="nav-item">
                         <a
-                          href="https://drive.google.com/file/d/1N0EJupTNEa6DpV3tiHbTMLHHCP4JltsG/view?usp=sharing"
+                          href="https://drive.google.com/file/d/1CHrakpLFAKqmWhWhMmmwN33LhK_NCryB/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
@@ -135,7 +135,7 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
-                          href="https://docs.google.com/spreadsheets/d/1O-JC8bqxfCf_VdDyyaOWaLJbuYQAdNzHEgD9qU-nnB4/edit?usp=drive_link"
+                          href="https://drive.google.com/file/d/1xubtwp5yY3WUy4TXfzCrITXPg64u4Nam/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
@@ -146,7 +146,7 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
-                          href="https://docs.google.com/spreadsheets/d/1No84fcdck3gWNLIP3374EyAE9op2OGJz_8oskTkC38M/edit#gid=0"
+                          href="https://drive.google.com/file/d/1kJUxkQC5qX_En4nEaadyRKAdG3tzzQoL/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
