@@ -32,20 +32,6 @@ const EventLocation = () => {
               </a>
             </p>
           </div>
-          {/* <div className="f_social_icon_two">
-            <a href="/#">
-              <i className="ti-facebook"></i>
-            </a>
-            <a href="/#">
-              <i className="ti-instagram"></i>
-            </a>
-            <a href="/#">
-              <i className="ti-whatsapp-alt"></i>
-            </a>
-            <a href="/#">
-              <i className="ti-gmail-alt"></i>
-            </a>
-          </div> */}
         </div>
       </div>
     </section>

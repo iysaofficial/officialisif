@@ -4,12 +4,7 @@ import EventSponserLogo from "./EventSponserLogo";
 const EventSponser = () => {
   return (
     <section className="event_sponser_area sec_pad">
-      <div className="container">
-        {/* <div className="hosting_title security_title text-center">
-          <h2>
-            <span>Lovely Clients</span> Offcial Sponsors
-          </h2>
-        </div> */}
+      <div className="container">\
         <div className="event_sponser_inner">
           <div className="event_sponser_item">
             <div className="row">

@@ -6,44 +6,46 @@ import image3 from "../../img/background/img3.WebP";
 
 const ChatBanner = () => {
   const mystyle = {
-    color: "white",
+    color: "white", 
+    fontSize: "clamp(16px, 2vw, 32px)"
   };
   return (
     <Carousel fade={true}>
       <Carousel.Item interval={2000}>
         <img className="d-block w-100 mr-3" src={image1} alt="ISIF" />
         <Carousel.Caption>
+          <h1 className="fw-bold" style={mystyle}>Open Registration 2024</h1>
           <a
             className="btn-primary btn"
-            href="/"
+            href="https://registrasi-isif-2024.vercel.app/"
+            target="_blank"
           >
-            Coming Soon 2024 
+            Registration Here!!
           </a>
-          <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
         <img className="d-block w-100" src={image2} alt="IRTC" />
         <Carousel.Caption>
+          <h1 style={mystyle}>Open Registration 2024</h1>
           <a
             className="btn-primary btn"
-            href="/"
+            href="https://registrasi-isif-2024.vercel.app/"
           >
-            Coming Soon 2024 
+            Registration Here!!
           </a>
-          <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
         <img className="d-block w-100" src={image3} alt="NRTC" />
         <Carousel.Caption>
+          <h1 style={mystyle}>Open Registration 2024</h1>
           <a
             className="btn-primary btn"
-            href="/"
+            href="https://registrasi-isif-2024.vercel.app/"
           >
-            Coming Soon 2024 
+            Registration Here!!
           </a>
-          <h3 style={mystyle}>International Science And Invention Fair</h3>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

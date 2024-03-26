@@ -18861,6 +18861,10 @@ input[type="text"] {
   border-color: #f8636b;
 }
 
+.carousel-fade .carousel-item {
+  padding-top: 7.6rem;
+}
+
 /*============ hosting_menu css =============*/
 /*============ erp_menu css =============*/
 .erp_menu .er_btn {

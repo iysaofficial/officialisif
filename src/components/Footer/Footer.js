@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-// import { Link } from 'react-router-dom';
 import Reveal from "react-reveal/Reveal";
 class Footer extends Component {
   render() {
