@@ -7,6 +7,7 @@ import Process from "../components/Process/Process";
 import EventSponser from "../components/EventSponser";
 import Footer from "../components/Footer/Footer";
 import FooterData from "../components/Footer/FooterData";
+import BackToTop from "../components/backtotop";
 
 import Video from "../components/Video";
 
@@ -19,6 +20,7 @@ export const Home = () => (
     <Video />
     <SupportIntegration />
     <Process />
+    <BackToTop />
     <Footer FooterData={FooterData} />
   </div>
 );
