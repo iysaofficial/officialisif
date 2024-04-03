@@ -14,7 +14,6 @@ const EventSponser = () => {
               <div className="col-lg-9 col-md-8">
                 <div className="row ">
                   <EventSponserLogo url=".#" image="iysa.png" />
-                  <EventSponserLogo url=".#" image="unud.png" />
                 </div>
               </div>
             </div>
@@ -33,7 +32,6 @@ const EventSponser = () => {
                   <EventSponserLogo url=".#" image="miica.png" />
                   <EventSponserLogo url=".#" image="milset.jpg" />
                   <EventSponserLogo url=".#" image="myso.png" />
-                  {/* <EventSponserLogo url=".#" image="wiipa.png" /> */}
                   <EventSponserLogo url=".#" image="esc.jpg" />
                   <EventSponserLogo url=".#" image="gatau.jpeg" />
                   <EventSponserLogo url=".#" image="ipb.png" />
