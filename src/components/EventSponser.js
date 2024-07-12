@@ -15,6 +15,7 @@ const EventSponser = () => {
                 <div className="row ">
                   <EventSponserLogo url=".#" image="iysa.png" />
                   <EventSponserLogo url=".#" image="akt.png" />
+                  <EventSponserLogo url=".#" image="vokasi.png" />
                 </div>
               </div>
             </div>
