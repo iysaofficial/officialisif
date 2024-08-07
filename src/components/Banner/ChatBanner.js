@@ -19,6 +19,7 @@ const ChatBanner = () => {
             className="btn-primary btn"
             href="https://registrasi-isif-2024.vercel.app/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Registration Here!!
           </a>

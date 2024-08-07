@@ -16,6 +16,7 @@ const EventSponser = () => {
                   <EventSponserLogo url=".#" image="iysa.png" />
                   <EventSponserLogo url=".#" image="akt.png" />
                   <EventSponserLogo url=".#" image="vokasi.png" />
+                  <EventSponserLogo url=".#" image="buca.WebP" />
                 </div>
               </div>
             </div>
