@@ -13,10 +13,11 @@ const EventSponser = () => {
               </div>
               <div className="col-lg-9 col-md-8">
                 <div className="row ">
-                  <EventSponserLogo url=".#" image="iysa.png" />
-                  <EventSponserLogo url=".#" image="akt.png" />
-                  <EventSponserLogo url=".#" image="vokasi.png" />
-                  <EventSponserLogo url=".#" image="buca.WebP" />
+                  <EventSponserLogo image="iysa.png" />
+                  <EventSponserLogo image="akt.png" />
+                  <EventSponserLogo image="vokasi.png" />
+                  <EventSponserLogo image="buca.WebP" />
+                  <EventSponserLogo image="Logo-UNISMA.png" />
                 </div>
               </div>
             </div>
