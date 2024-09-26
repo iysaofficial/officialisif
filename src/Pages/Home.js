@@ -8,6 +8,7 @@ import EventSponser from "../components/EventSponser";
 import Footer from "../components/Footer/Footer";
 import FooterData from "../components/Footer/FooterData";
 import BackToTop from "../components/backtotop";
+import Timevenue from "../components/timevenue";
 
 import Video from "../components/Video";
 
@@ -17,6 +18,7 @@ export const Home = () => (
     <Slider />
     <About />
     <EventSponser />
+    <Timevenue />
     <Video />
     <SupportIntegration />
     <Process />
