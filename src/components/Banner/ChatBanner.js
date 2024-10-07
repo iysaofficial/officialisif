@@ -14,38 +14,38 @@ const ChatBanner = () => {
       <Carousel.Item interval={2000}>
         <img className="d-block w-100 mr-3" src={image1} alt="ISIF" />
         <Carousel.Caption>
-          <h1 className="fw-bold" style={mystyle}>Open Registration 2024</h1>
+          <h1 className="fw-bold" style={mystyle}>Close Registration 2024</h1>
           <a
             className="btn-primary btn"
             href="https://registrasi-isif-2024.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Registration Here!!
+            Close Registration!!
           </a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
         <img className="d-block w-100" src={image2} alt="IRTC" />
         <Carousel.Caption>
-          <h1 style={mystyle}>Open Registration 2024</h1>
+          <h1 style={mystyle}>Close Registration 2024</h1>
           <a
             className="btn-primary btn"
             href="https://registrasi-isif-2024.vercel.app/"
           >
-            Registration Here!!
+            Close Registration!!
           </a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={2000}>
         <img className="d-block w-100" src={image3} alt="NRTC" />
         <Carousel.Caption>
-          <h1 style={mystyle}>Open Registration 2024</h1>
+          <h1 style={mystyle}>Close Registration 2024</h1>
           <a
             className="btn-primary btn"
             href="https://registrasi-isif-2024.vercel.app/"
           >
-            Registration Here!!
+            Close Registration!!
           </a>
         </Carousel.Caption>
       </Carousel.Item>
