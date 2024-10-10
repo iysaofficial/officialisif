@@ -17,8 +17,7 @@ const ChatBanner = () => {
           <h1 className="fw-bold" style={mystyle}>Close Registration 2024</h1>
           <a
             className="btn-primary btn"
-            href="#"
-            target="_blank"
+            href="/"
             rel="noopener noreferrer"
           >
             Close Registration!!
@@ -31,7 +30,7 @@ const ChatBanner = () => {
           <h1 style={mystyle}>Close Registration 2024</h1>
           <a
             className="btn-primary btn"
-            href="https://registrasi-isif-2024.vercel.app/"
+            href="/"
           >
             Close Registration!!
           </a>
@@ -43,7 +42,7 @@ const ChatBanner = () => {
           <h1 style={mystyle}>Close Registration 2024</h1>
           <a
             className="btn-primary btn"
-            href="https://registrasi-isif-2024.vercel.app/"
+            href="/"
           >
             Close Registration!!
           </a>
