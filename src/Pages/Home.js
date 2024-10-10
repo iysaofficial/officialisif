@@ -18,7 +18,6 @@ export const Home = () => (
     <Slider />
     <About />
     <EventSponser />
-    <Timevenue />
     <Video />
     <SupportIntegration />
     <Process />
