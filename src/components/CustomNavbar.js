@@ -270,22 +270,22 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
-                          href="https://drive.google.com/drive/folders/11phBTa4qXqwNViMttlydJ_lT8M4pjP-G?usp=drive_link"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          className="nav-link"
-                        >
-                          Gallery 2023
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a
                           href="https://drive.google.com/drive/folders/1p9ZRMi7TI6JzMjNCmeiBhlwIuxLqt7YC?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           className="nav-link"
                         >
                           Gallery 2024
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/11phBTa4qXqwNViMttlydJ_lT8M4pjP-G?usp=drive_link"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Gallery 2023
                         </a>
                       </li>
                       <li className="nav-item">
