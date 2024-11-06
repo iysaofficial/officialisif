@@ -88,6 +88,17 @@ class CustomNavbar extends Component {
                         </NavLink>
                       </li>
                       <li className="nav-item">
+                      <a
+                          href="https://drive.google.com/file/d/1HRc2-l6jPmInPkTeKpFZBXbmgspcYwTe/view?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Press Release"
+                          className="nav-link"
+                        >
+                          Chief Judge Opening Speech 2024
+                        </a>
+                      </li>
+                      <li className="nav-item">
                         <a
                           href="https://drive.google.com/file/d/1tCNqnQH-uL4rZ3Sw-uhiomupn5ZTtMjd/view?usp=sharing"
                           target="_blank"
@@ -97,15 +108,6 @@ class CustomNavbar extends Component {
                         >
                           Press Release 2023
                         </a>
-                        {/* <a
-                          href="https://drive.google.com/file/d/11YZpbDYR5Fx867g94Lo2WL-Dl661__wE/view"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          Press Release 2022
-                        </a> */}
                       </li>
                     </ul>
                   </li>
@@ -266,7 +268,7 @@ class CustomNavbar extends Component {
                       Gallery
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
-                    <li className="nav-item">
+                      <li className="nav-item">
                         <a
                           href="https://drive.google.com/drive/folders/11phBTa4qXqwNViMttlydJ_lT8M4pjP-G?usp=drive_link"
                           target="_blank"
@@ -274,6 +276,16 @@ class CustomNavbar extends Component {
                           className="nav-link"
                         >
                           Gallery 2023
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/1p9ZRMi7TI6JzMjNCmeiBhlwIuxLqt7YC?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Gallery 2024
                         </a>
                       </li>
                       <li className="nav-item">
