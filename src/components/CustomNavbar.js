@@ -126,6 +126,17 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                     <li className="nav-item">
                         <a
+                          href="https://drive.google.com/file/d/1c8ZeH7cGmkLdsfQAHi-v8OZANVHBeUF1/view?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Press Release"
+                          className="nav-link"
+                        >
+                          List of Winner 2024
+                        </a>
+                      </li>
+                    <li className="nav-item">
+                        <a
                           href="https://drive.google.com/file/d/1CHrakpLFAKqmWhWhMmmwN33LhK_NCryB/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
@@ -244,13 +255,24 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
+                          href="https://drive.google.com/drive/folders/13egdAI5zZO9vYGK3IJsSVVkRsDtZ13yT?usp=drive_link"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Certificate Supervisor"
+                          className="nav-link"
+                        >
+                          Certificate Supervisor 2024
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
                           href="https://drive.google.com/drive/folders/1TkfNsAgPQ4GWrMZrH2EbOL4XjMj3nP77?usp=drive_link"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor
+                          Certificate Supervisor 2023
                         </a>
                       </li>
                     </ul>
