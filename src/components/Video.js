@@ -33,7 +33,7 @@ const video = () => {
             <a 
               className="popup-youtube video_icon"
               target="-blank"
-              href="https://www.youtube.com/embed/9rTOH_jqUeY?si=qTJixwQgY0BL2gPM"
+              href="https://www.youtube.com/embed/HR3SUeO1oaw?si=O7mw_XQRtGK-ov6h"
             >
               <i className="arrow_triangle-right"></i>
             </a>
