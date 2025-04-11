@@ -171,6 +171,26 @@ const ServiceData = {
   NewsList: [
     {
       id: "",
+      image: "News/Perwira.jpg",
+      btitle: "INTERNASIONAL SCIENCE and INVENTION FAIR (ISIF) 2024. AAL GET “2 GOLD MEDAL & NWERA SPECIAL AWARD",
+      bdescription:
+        "Achievements were made again by Naval Academy cadets at the prestigious International Science And Invention Fair (ISIF) 2024 at BCCI, Denpasar Bali.A prestigious international event because it was attended by 973 teams from 24 countries in the world.ISIF (International Science and Invention Fair) and NSIF (National Science and Innovation Fair) are prestigious world competitions that bring together young researchers, innovators, and students from various countries to present their scientific findings, research, and innovative projects. The competitions are designed to promote creativity and critical thinking in science and technology, provide opportunities for participants to gain international recognition and expand their professional networks.",
+      Month: "NOV",
+      Year: "2024",
+      Pagelink: "https://peloporwiratama.co.id/2024/11/10/internasional-science-and-invention-fair-isif-2024-aal-raih-2-gold-medal-nwera-special-award/",
+    },
+    {
+      id: "",
+      image: "News/Cilacap.png",
+      btitle: "CILACAP WINS MEDAL AT INTERNATIONAL SCIENCE AND INVENTION FAIR (ISIF) IN 2024",
+      bdescription:
+        "Cilacap - ISIF (International Science you Invention Fair) 2024 took place at the Denpasar Industrial Training Center, Bali where Cilacap Regency passed 2 teams, namely SMA Negeri 2 Cilacap and SMA Negeri 1 Maos to the final round which was held in a hybrid manner, namely offline and online on October 30-31, 2024. The announcement and awarding of prizes was held on Tuesday, November 5, 2024. The team from SMA Negeri 2 Cilacap won the bronze medal and SMA Negeri 1 Maos won the silver medal.",
+      Month: "NOV",
+      Year: "2024",
+      Pagelink: "https://cilacapkab.go.id/v3/cilacap-raih-medali-di-ajang-international-science-and-invention-fair-isif-tahun-2024/",
+    },
+    {
+      id: "",
       image: "News/Iran.WebP",
       btitle: "Iranian students grab colorful medals in ISIF 2023",
       bdescription:

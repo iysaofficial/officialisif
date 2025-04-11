@@ -16,7 +16,7 @@ const PageNewsList = () => {
       <Breadcrumb
         breadcrumbClass="breadcrumb_area"
         imgName="background/img2.WebP"
-        Ptitle="MEDIA COVERAGE"
+        Ptitle="MEDIA"
         Pdescription="Our News"
       />
       <NewsList />

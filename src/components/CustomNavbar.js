@@ -74,7 +74,7 @@ class CustomNavbar extends Component {
                       aria-haspopup="true"
                       aria-expanded="false"
                     >
-                      Media Coverage
+                      Media
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
@@ -84,18 +84,18 @@ class CustomNavbar extends Component {
                           className="nav-link"
                           to="/PageNewsList"
                         >
-                          News
+                          News from Media
                         </NavLink>
                       </li>
                       <li className="nav-item">
                       <a
-                          href="https://drive.google.com/file/d/1HRc2-l6jPmInPkTeKpFZBXbmgspcYwTe/view?usp=sharing"
+                          href="https://drive.google.com/file/d/1kNhPgPbXJ6PcirFeKAEn6cFhWyHh2nsx/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
                           className="nav-link"
                         >
-                          Chief Judge Opening Speech 2024
+                          Press Release 2024
                         </a>
                       </li>
                       <li className="nav-item">
