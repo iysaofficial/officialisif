@@ -18,6 +18,14 @@ import PageNews6 from "./Pages/News/PageNews6";
 import Faq from "./Pages/FAQ/Faq";
 
 import NotFound from "./Pages/404";
+import RegistHome from "./Pages/registration/homeregist";
+import HomeIndo from "./Pages/registration/homeindo";
+import HomeInter from "./Pages/registration/homeinter";
+import IndonesiaOffline from "./Pages/registration/indo-offline";
+import IndonesiaOnline from "./Pages/registration/indo-online";
+import Thankyouinter from "./Pages/registration/thankyouinter";
+import InternationalOnline from "./Pages/registration/inter-online";
+import InternationalOffline from "./Pages/registration/inter-offline";
 
 class App extends Component {
   componentDidMount() {
@@ -40,6 +48,17 @@ class App extends Component {
           <ScrollToTopRoute path="/PageNews6" component={PageNews6} />
 
           <ScrollToTopRoute path="/Faq" component={Faq} />
+          
+          {/* REGIST */}
+          <ScrollToTopRoute path="/Homeregist" component={RegistHome} />
+          <ScrollToTopRoute path="/Homeindo" component={HomeIndo} />
+          <ScrollToTopRoute path="/Homeinter" component={HomeInter} />
+          <ScrollToTopRoute path="/indo-offline" component={IndonesiaOffline} />
+          <ScrollToTopRoute path="/indo-online" component={IndonesiaOnline} />
+          <ScrollToTopRoute path="/inter-online" component={InternationalOnline} />
+          <ScrollToTopRoute path="/inter-offline" component={InternationalOffline} />
+          <ScrollToTopRoute path="/thankyouinter" component={Thankyouinter} />
+
           <ScrollToTopRoute component={NotFound} />
         </Switch>
       </Router>

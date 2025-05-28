@@ -125,9 +125,8 @@ a:focus {
   cursor: pointer;
 }
 
-
-.contact .contact-box .form-contact button{
-    border-color: #262521;
+.contact .contact-box .form-contact button {
+  border-color: #262521;
 }
 .contact .contact-box .form-contact form table tr td button:hover {
   box-shadow: 8px 8px #262521;
@@ -150,8 +149,8 @@ a:focus {
     margin-top: 10px;
   }
 
-  @media (max-width:426px) {
-    .her .container .contact .contact-box .box{
+  @media (max-width: 426px) {
+    .her .container .contact .contact-box .box {
       margin-top: -8rem;
       margin-bottom: -9rem;
     }
@@ -184,12 +183,12 @@ i:before {
   display: none;
   z-index: 100;
   color: #fff;
-  background-color: #03ebcccc ;
+  background-color: #03ebcccc;
   border-radius: 25px;
 }
 #btn-back-to-top:hover {
   color: #263b5e;
-   border: none;
+  border: none;
 }
 /* Akhir Tambahan */
 
@@ -26649,3 +26648,16 @@ a .h_head:hover {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
+
+.carousel-item img {
+  max-height: 100vh;
+  object-fit: cover;
+}
+
+.custom-caption {
+  background-color: rgba(234, 238, 255, 0.6); /* angka 0.6 adalah opacity */
+  width: 40%;
+  left: 30%;
+  bottom: 10%;
+  border-radius: 12px;
+}

@@ -1,11 +1,14 @@
 import React, { Component } from "react";
 import Reveal from "react-reveal/Reveal";
+import ImageSlider from "../ImageSlider";
+
 class Footer extends Component {
   render() {
     let FooterData = this.props.FooterData;
     return (
       <footer className="new_footer_area bg_color">
         <div className="new_footer_top">
+        <ImageSlider/>
           <div className="container">
             <div className="row">
               {FooterData.CompanyWidget.map((widget) => {

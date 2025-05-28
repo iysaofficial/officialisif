@@ -1,53 +1,43 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
-import image1 from "../../img/background/img.WebP";
-import image2 from "../../img/background/img2.WebP";
-import image3 from "../../img/background/img3.WebP";
+
+const images = [
+  "/assets/images/slider/ISIF 2024-89.jpg",
+  "/assets/images/slider/ISIF 2024-58.jpg",
+  "/assets/images/slider/ISIF 2024-185.jpg",
+];
 
 const ChatBanner = () => {
   const mystyle = {
-    color: "white", 
-    fontSize: "clamp(16px, 2vw, 32px)"
+    color: "black",
+    fontSize: "clamp(14px, 4vw, 32px)",
+    objectFit: "cover",
+    fontweight: "800",
   };
+
   return (
-    <Carousel fade={true}>
-      <Carousel.Item interval={2000}>
-        <img className="d-block w-100 mr-3" src={image1} alt="ISIF" />
-        <Carousel.Caption>
-          <h1 className="fw-bold" style={mystyle}>Coming Soon 2025</h1>
-          {/* <a
-            className="btn-primary btn"
-            href="/"
-            rel="noopener noreferrer"
-          >
-            Close Registration!!
-          </a> */}
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item interval={2000}>
-        <img className="d-block w-100" src={image2} alt="IRTC" />
-        <Carousel.Caption>
-          <h1 style={mystyle}>Coming Soon 2025</h1>
-          {/* <a
-            className="btn-primary btn"
-            href="/"
-          >
-            Close Registration!!
-          </a> */}
-        </Carousel.Caption>
-      </Carousel.Item>
-      <Carousel.Item interval={2000}>
-        <img className="d-block w-100" src={image3} alt="NRTC" />
-        <Carousel.Caption>
-          <h1 style={mystyle}>Coming Soon 2025</h1>
-          {/* <a
-            className="btn-primary btn"
-            href="/"
-          >
-            Close Registration!!
-          </a> */}
-        </Carousel.Caption>
-      </Carousel.Item>
+    <Carousel fade={true} controls={false}>
+      {images.map((imgSrc, index) => (
+        <Carousel.Item key={index} interval={2000} className="text-center">
+          <img
+            className="d-block w-100"
+            src={imgSrc}
+            alt={`Slide ${index + 1}`}
+          />
+          <Carousel.Caption className="custom-caption">
+            <h1 className="fw-bold" style={mystyle}>
+              Coming Soon 2025
+            </h1>
+            {/* <a
+              className="btn btn-primary mt-3"
+              href="/homeregist"
+              rel="noopener noreferrer"
+            >
+              Regist Here
+            </a> */}
+          </Carousel.Caption>
+        </Carousel.Item>
+      ))}
     </Carousel>
   );
 };
