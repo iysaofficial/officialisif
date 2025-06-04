@@ -10,7 +10,7 @@ const EventLocation = () => {
             <h6>Our Office</h6>
             <p>
               <a href="https://goo.gl/maps/9x18coXGCmSscKec6" target="blank">
-                Jl. Kemang No. 63 RT 03 RW 06
+                Jl. Kemang RT 03 RW 06
                 <br />
                 Pasir Putih, Depok, Jawa Barat 16519, Indonesia.
               </a>
@@ -25,10 +25,10 @@ const EventLocation = () => {
             </p>
             <p>
               <a
-                href="https://api.whatsapp.com/send/?phone=6281770914129&text&type=phone_number&app_absent=0"
+                href="https://api.whatsapp.com/send/?phone=6288213248890&text&type=phone_number&app_absent=0"
                 target="-target"
               >
-                +62 817-7091-4129
+                +62 882-1324-8890
               </a>
             </p>
           </div>

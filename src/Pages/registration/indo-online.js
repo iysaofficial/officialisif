@@ -554,8 +554,8 @@ function IndonesiaOnline() {
                     <option value="Environment">
                       Environment
                     </option>
-                    <option value="Social Sciences">
-                      Social Sciences
+                    <option value="Social Science">
+                      Social Science
                     </option>
                     <option value="Education">
                       Education

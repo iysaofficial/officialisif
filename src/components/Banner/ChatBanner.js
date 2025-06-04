@@ -24,17 +24,22 @@ const ChatBanner = () => {
             src={imgSrc}
             alt={`Slide ${index + 1}`}
           />
-          <Carousel.Caption className="custom-caption">
-            <h1 className="fw-bold" style={mystyle}>
-              Coming Soon 2025
-            </h1>
-            {/* <a
-              className="btn btn-primary mt-3"
+          <Carousel.Caption className="">
+            <a
+              className="btn btn-primary m-2"
               href="/homeregist"
               rel="noopener noreferrer"
             >
               Regist Here
-            </a> */}
+            </a>
+            <a
+              className="btn btn-primary m-2"
+              href="https://drive.google.com/file/d/16NbKYbNW9Ni621NUoLZm0M32tkShUruh/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Guide Book
+            </a>
           </Carousel.Caption>
         </Carousel.Item>
       ))}

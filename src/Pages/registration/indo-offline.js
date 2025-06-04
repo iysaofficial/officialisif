@@ -548,7 +548,7 @@ function IndonesiaOffline() {
                       Physics, Energy and Engineering
                     </option>
                     <option value="Environment">Environment</option>
-                    <option value="Social Sciences">Social Sciences</option>
+                    <option value="Social Science">Social Science</option>
                     <option value="Education">Education</option>
                   </select>
                 </div>

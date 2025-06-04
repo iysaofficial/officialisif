@@ -377,8 +377,8 @@ class CustomNavbar extends Component {
                     <a
                       title="Winner"
                       className="nav-link"
-                      target="-blank"
-                      href="https://drive.google.com/file/d/1fHAV9_CycmJoHqPbEK3rD2I1kminYu6L/view?usp=sharing"
+                      target="_blank"
+                      href="https://drive.google.com/file/d/16NbKYbNW9Ni621NUoLZm0M32tkShUruh/view?usp=sharing"
                     >
                       Guide Book
                     </a>

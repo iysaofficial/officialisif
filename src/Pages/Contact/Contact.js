@@ -50,7 +50,7 @@ const Contact = () => {
                             <input
                               type="text"
                               name="Lash Name"
-                              placeholder="Lash Name"
+                              placeholder="Last Name"
                               autocomplete="off"
                             />
                           </td>
