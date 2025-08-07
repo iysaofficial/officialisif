@@ -372,6 +372,7 @@ export default function InternationalOffline() {
                     <option value="Myanmar +95">Myanmar +95</option>
                     <option value="Nepal +977">Nepal +977</option>
                     <option value="Pakistan +92">Pakistan +92</option>
+                    <option value="Palestine +970">Palestine +970</option>
                     <option value="Rumania +40">Rumania +40</option>
                     <option value="Singapura +65">Singapura +65</option>
                     <option value="Slovenia +386">Slovenia +386</option>
