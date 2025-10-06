@@ -7,8 +7,40 @@ import FooterData from "../../components/Footer/FooterData";
 // import CoreFeatures from '../components/Features/CoreFeatures';
 import MarketingGetstarted from "../../components/MarketingGetstarted";
 import EventLocation from "../../components/EventLocation";
+import { useEffect } from "react";
 
 const Contact = () => {
+  useEffect(() => {
+      const scriptURL =
+      "https://script.google.com/macros/s/AKfycbzdgUOy_s6zjJQTgqXQ7GX3H1_w6TvWq1hsBZgH0mSREWt3qXCKA34-qo74-jfDVbHE/exec";
+
+      const form = document.forms.namedItem("contact");
+
+      if (form) {
+      const handleSubmit = async (e) => {
+          e.preventDefault();
+          try {
+          await fetch(scriptURL, {
+              method: "POST",
+              body: new FormData(form),
+          });
+          alert("Message sent successfully!");
+          form.reset();
+          } catch (error) {
+          console.error("Error:", error);
+          alert("Failed to send Message.");
+          }
+      };
+
+      form.addEventListener("submit", handleSubmit);
+
+      // cleanup listener
+      return () => {
+          form.removeEventListener("submit", handleSubmit);
+      };
+      }
+  }, []);
+
   return (
     <div className="body_wrapper">
       <CustomNavbar
@@ -32,25 +64,19 @@ const Contact = () => {
                   <h1>Contact Us</h1>
                   <div class="form-contact">
                     <form
-                      action="https://formspree.io/f/mqkrryeb"
+                      action=""
                       method="POST"
+                      name="contact"
                     >
                       <table>
+                         <input type="hidden" name="Event" value="ISIF" readOnly />
                         <tr>
                           <td>
                             <input
                               type="text"
-                              name="First Name"
-                              placeholder="First Name"
+                              name="Name"
+                              placeholder="Your Name"
                               required
-                              autocomplete="off"
-                            />
-                          </td>
-                          <td>
-                            <input
-                              type="text"
-                              name="Lash Name"
-                              placeholder="Last Name"
                               autocomplete="off"
                             />
                           </td>
@@ -59,7 +85,7 @@ const Contact = () => {
                           <td colspan="2">
                             <input
                               type="email"
-                              name="email"
+                              name="Email"
                               placeholder=" Your Email"
                               required
                               autocomplete="off"
@@ -69,7 +95,7 @@ const Contact = () => {
                         <tr>
                           <td colspan="2">
                             <textarea
-                              name="text"
+                              name="Message"
                               cols="30"
                               rows="10"
                               placeholder="Message"
