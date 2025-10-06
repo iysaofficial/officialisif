@@ -27,10 +27,9 @@ const ChatBanner = () => {
           <Carousel.Caption className="">
             <a
               className="btn btn-primary m-2"
-              href="/homeregist"
               rel="noopener noreferrer"
             >
-              Regist Here
+              Close Registration
             </a>
             <a
               className="btn btn-primary m-2"
