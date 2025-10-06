@@ -22,17 +22,17 @@ const RegistHome = () => {
           </div>
           <div className="link-web mx-auto text-center">
             <a
-              href="/Homeindo"
+              href="/"
               className="btn-regist btn-action text-center me-lg-5 m-2"
             >
-              Indonesia Participant{" "}
+              Close Registration{" "}
               <i className="fa-solid fa-earth-americas"></i>
             </a>
             <a
-              href="/Homeinter"
+              href="/"
               className="btn-regist btn-action text-center me-lg-5 m-2"
             >
-              International Participant{" "}
+              Close Registration{" "}
               <i className="fa-solid fa-earth-americas"></i>
             </a>
           </div>
