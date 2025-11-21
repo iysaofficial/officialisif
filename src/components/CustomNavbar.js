@@ -88,7 +88,18 @@ class CustomNavbar extends Component {
                         </NavLink>
                       </li>
                       <li className="nav-item">
-                      <a
+                        <a
+                          href="https://drive.google.com/file/d/12D5KTwhSXcKZO8osMVpFk47Etgk0kGzY/view?usp=sharingcd"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Press Release"
+                          className="nav-link"
+                        >
+                          Press Release 2025
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
                           href="https://drive.google.com/file/d/1kNhPgPbXJ6PcirFeKAEn6cFhWyHh2nsx/view?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
@@ -111,75 +122,15 @@ class CustomNavbar extends Component {
                       </li>
                     </ul>
                   </li>
-                  <li className="dropdown submenu nav-item">
-                    <Link
-                      to="./"
-                      title="download"
-                      className="dropdown-toggle nav-link"
-                      data-toggle="dropdown"
-                      role="button"
-                      aria-haspopup="true"
-                      aria-expanded="false"
+                  <li className="nav-item">
+                    <NavLink
+                      exact
+                      title="Service"
+                      className="nav-link"
+                      to="/ListOfWinner"
                     >
-                      List of Winner
-                    </Link>
-                    <ul role="menu" className=" dropdown-menu">
-                    <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/1Bb6Y3n57eDutSn_yGPYXtPbHKQ_7sSsO/view?usp=sharing"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          List of Winner 2024
-                        </a>
-                      </li>
-                    <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/1CHrakpLFAKqmWhWhMmmwN33LhK_NCryB/view?usp=sharing"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          List of Winner 2023
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/1xubtwp5yY3WUy4TXfzCrITXPg64u4Nam/view?usp=sharing"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          List of Winner 2022
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a
-                          href="https://drive.google.com/file/d/1kJUxkQC5qX_En4nEaadyRKAdG3tzzQoL/view?usp=sharing"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          List of Winner 2021
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a
-                          href="https://docs.google.com/spreadsheets/d/1X1brvUOx5QcAO9_mT7dTmqEBRrgSKmXn/edit#gid=1957635472"
-                          target="_blank"
-                          rel="noreferrer noopener"
-                          title="Press Release"
-                          className="nav-link"
-                        >
-                          List of Winner 2020
-                        </a>
-                      </li>
-                    </ul>
+                      List of Winners
+                    </NavLink>
                   </li>
                   <li className="dropdown submenu nav-item">
                     <Link
@@ -194,7 +145,7 @@ class CustomNavbar extends Component {
                       Curation
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
-                    <li className="nav-item">
+                      <li className="nav-item">
                         <a
                           href="https://drive.google.com/drive/folders/1Z2fNu4yJv9XtmFQxMdOkdw55XWlOIo8u?usp=drive_link"
                           target="_blank"
@@ -266,6 +217,17 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
+                          href="https://drive.google.com/drive/folders/1ZNgxHSyVvXlbpXEd9_NG1slK_n5dR5ys?usp=drive_link"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Certificate Supervisor"
+                          className="nav-link"
+                        >
+                          Certificate Supervisor 2025
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
                           href="https://drive.google.com/drive/folders/13egdAI5zZO9vYGK3IJsSVVkRsDtZ13yT?usp=drive_link"
                           target="_blank"
                           rel="noreferrer noopener"
@@ -301,6 +263,16 @@ class CustomNavbar extends Component {
                       Gallery
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
+                      <li className="nav-item">
+                        <a
+                          href="https://drive.google.com/drive/folders/1p-oWDrc1b9JgqGjVkgZ3tWzin0SCTDed?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Gallery 2025
+                        </a>
+                      </li>
                       <li className="nav-item">
                         <a
                           href="https://drive.google.com/drive/folders/1p9ZRMi7TI6JzMjNCmeiBhlwIuxLqt7YC?usp=sharing"

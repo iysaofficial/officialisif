@@ -2,9 +2,9 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 
 const images = [
-  "/assets/images/slider/ISIF 2024-89.jpg",
-  "/assets/images/slider/ISIF 2024-58.jpg",
-  "/assets/images/slider/ISIF 2024-185.jpg",
+  "/assets/images/2025/ISIF 2025-49.jpg",
+  "/assets/images/2025/ISIF 2025-22.jpg",
+  "/assets/images/2025/ISIF 2025-382.jpg",
 ];
 
 const ChatBanner = () => {
@@ -29,7 +29,7 @@ const ChatBanner = () => {
               className="btn btn-primary m-2"
               rel="noopener noreferrer"
             >
-              Close Registration
+              Coming Soon Next Year
             </a>
             <a
               className="btn btn-primary m-2"

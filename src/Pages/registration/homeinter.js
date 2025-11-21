@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import {
-  internationalOfflineTerms,
-  internationalOnlineTerms,
-} from "../data/term";
+// import {
+//   internationalOfflineTerms,
+//   internationalOnlineTerms,
+// } from "../data/term";
 import "./../../assets/registration.css";
 import CustomNavbar from "../../components/CustomNavbar";
 import Footer from "../../components/Footer/Footer";

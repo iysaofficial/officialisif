@@ -4,15 +4,15 @@ import "react-multi-carousel/lib/styles.css";
 
 const ImageSlider = () => {
   const images = [
-    "/assets/images/slider/ISIF 2024-45.jpg",
-    "/assets/images/slider/ISIF 2024-74.jpg",
-    "/assets/images/slider/ISIF 2024-89.jpg",
-    "/assets/images/slider/ISIF 2024-253.jpg",
-    "/assets/images/slider/ISIF 2024-294.jpg",
-    "/assets/images/slider/ISIF 2024-64.jpg",
-    "/assets/images/slider/ISIF 2024-185.jpg",
-    "/assets/images/slider/ISIF 2024-653.jpg",
-    "/assets/images/slider/ISIF 2024-362.jpg",
+    "/assets/images/2025/ISIF 2025-22.jpg",
+    "/assets/images/2025/ISIF 2025-25.jpg",
+    "/assets/images/2025/ISIF 2025-232.jpg",
+    "/assets/images/2025/ISIF 2025-243.jpg",
+    "/assets/images/2025/ISIF 2025-319.jpg",
+    "/assets/images/2025/ISIF 2025-334.jpg",
+    "/assets/images/2025/ISIF 2025-396.jpg",
+    "/assets/images/2025/ISIF 2025-402.jpg",
+    "/assets/images/2025/ISIF 2025-122.jpg",
   ];
   const responsive = {
     superLargeDesktop: {
