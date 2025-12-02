@@ -223,7 +223,7 @@ class CustomNavbar extends Component {
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor 2025
+                          Certificate Supervisor Online 2025
                         </a>
                       </li>
                       <li className="nav-item">
@@ -234,7 +234,7 @@ class CustomNavbar extends Component {
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor 2024
+                          Certificate Supervisor Online 2024
                         </a>
                       </li>
                       <li className="nav-item">
@@ -245,7 +245,7 @@ class CustomNavbar extends Component {
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor 2023
+                          Certificate Supervisor Online 2023
                         </a>
                       </li>
                     </ul>
