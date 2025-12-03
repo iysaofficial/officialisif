@@ -217,7 +217,7 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
-                          href="https://drive.google.com/drive/folders/1ZNgxHSyVvXlbpXEd9_NG1slK_n5dR5ys?usp=drive_link"
+                          href="https://drive.google.com/drive/folders/1l-WOo8TwEBAcD6k21bNUsSXSEEeX0W9n?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Certificate Supervisor"
