@@ -171,6 +171,36 @@ const ServiceData = {
   NewsList: [
     {
       id: "",
+      image: "News/20251.jpg",
+      btitle: "NSIF, ISIF, NRTC, and IRTC 2025 Successfully Held, Featuring 774 Teams from 24 Countries",
+      bdescription:
+        "Jabaran.id - Four prestigious scientific competitions organized by the Indonesian Young Scientist Association (IYSA) in collaboration with the Vocational School of Diponegoro University and the İzmir International Innovation Science Energy Engineering Fair (İzmiriiseef) were once again successfully held in 2025. The events, which consist of the National Science and Invention Fair (NSIF), International Science and Invention Fair (ISIF), National Research Teacher Competition (NRTC), and International Research Teacher Competition (IRTC), attracted 774 research teams from within and outside the country.",
+      Month: "Dec",
+      Year: "2025",
+      Pagelink: "https://jabaran.id/nsif-isif-nrtc-dan-irtc-2025-sukses-digelar-hadirkan-774-tim-dari-24-negara/",
+    },
+    {
+      id: "",
+      image: "News/20252.webp",
+      btitle: "Undip TRKP SV students win gold medals at ISIF 2025",
+      bdescription:
+        "Semarang (ANTARA) - A team of students from the Shipbuilding Engineering Technology Study Program (TRKP), Diponegoro University Vocational School (SV Undip) won a gold medal at the 2025 International Science and Invention Fair (ISIF) held on November 12-15, 2025 in Bali.",
+      Month: "Dec",
+      Year: "2025",
+      Pagelink: "https://jateng.antaranews.com/berita/611357/mahasiswa-trkp-sv-undip-raih-medali-emas-di-isif-2025",
+    },
+    {
+      id: "",
+      image: "News/20253.webp",
+      btitle: "UMS Shows Global Achievement, Brings Home 4 Gold Medals at ISIF 2025",
+      bdescription:
+        "Students from Muhammadiyah University Surakarta (UMS) have once again made an achievement by winning four gold medals at the 7th International Science and Invention Fair (ISIF) 2025. This international competition was held in Bali from November 12 to 15, 2025.",
+      Month: "NOV",
+      Year: "2025",
+      Pagelink: "https://www.ums.ac.id/berita/kompetisi/ums-unjuk-prestasi-global-bawa-pulang-4-medali-emas-di-isif-2025",
+    },
+    {
+      id: "",
       image: "News/Perwira.jpg",
       btitle: "INTERNASIONAL SCIENCE and INVENTION FAIR (ISIF) 2024. AAL GET “2 GOLD MEDAL & NWERA SPECIAL AWARD",
       bdescription:
