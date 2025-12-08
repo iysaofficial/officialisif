@@ -147,6 +147,17 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
+                          href="https://drive.google.com/drive/folders/1ihGVWoBzJgm7mVmlKRh7wylGBt_LH-rp?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          title="Curation"
+                          className="nav-link"
+                        >
+                          Curation 2025
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
                           href="https://drive.google.com/drive/folders/1Z2fNu4yJv9XtmFQxMdOkdw55XWlOIo8u?usp=drive_link"
                           target="_blank"
                           rel="noreferrer noopener"
