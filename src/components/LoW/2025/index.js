@@ -17,7 +17,7 @@ export default function List2025() {
       label: "Secondary",
       driveLink: {
         Online:
-          "https://drive.google.com/file/d/1Y2OKjQyAoVa0FNaWDO8QuHOiv4TzzrXo/view?usp=sharing",
+          "https://drive.google.com/file/d/1nxCmEzbnldCLjfdNaLZro0_Nmbfd8z-h/view?usp=drive_link",
         Offline: "https://drive.google.com/file/d/1XmROg3IwbDoYRT23FrAIuqsTbcrwaxHP/view?usp=sharing",
       },
     },
