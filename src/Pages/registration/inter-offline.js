@@ -14,7 +14,7 @@ export default function InternationalOffline() {
   const maxSchoolChars = 500; // batasan maksimal karakter
   const maxProjectChars = 160; // batasan maksimal karakter
   const [selectedCategory, setSelectedCategory] = useState("");
-  const [categoryPrice, setCategoryPrice] = useState("");
+
   const [statusMessage, setStatusMessage] = useState("");
   const [isLoading, setIsLoading] = useState(false);
   const [showModal, setShowModal] = useState(false);
@@ -56,7 +56,7 @@ export default function InternationalOffline() {
       case "International Science and Invention Fair - Offline Competition + Excursion":
         break;
       default:
-        setCategoryPrice("");
+
         break;
     }
   };
