@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { indonesiaOnlineTerms, indonesiaOfflineTerms } from "../data/term";
 import "./../../assets/registration.css";
 import CustomNavbar from "../../components/CustomNavbar";
 import Footer from "../../components/Footer/Footer";
@@ -56,14 +55,15 @@ function HomeIndo() {
                 handleOpenModal("/indo-online", indonesiaOnlineTerms)
               }
             > */}
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/", )
               }
             >
               Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
             {/* <a
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
@@ -72,14 +72,15 @@ function HomeIndo() {
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
             </a> */}
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/", )
               }
             >
               Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
           </div>
         </div>
       </section>

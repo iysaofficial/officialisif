@@ -59,13 +59,13 @@ class SupportIntegration extends Component {
               <div className="row">
                 {this.state.integrationItem.map((post) => (
                   <div className="col-lg-4 col-md-4 col-sm-6" key={post.id}>
-                    <a className="s_integration_item">
+                    <div className="s_integration_item">
                       <img
                         src={require("../img/new-home/" + post.iImage)}
                         alt=""
                       />
                       <h5>{post.text}</h5>
-                    </a>
+                    </div>
                   </div>
                 ))}
               </div>

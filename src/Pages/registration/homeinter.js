@@ -61,12 +61,13 @@ function HomeInter() {
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
             </a> */}
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() => handleOpenModal("/")}
             >
               Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
             {/* <a
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
@@ -75,12 +76,13 @@ function HomeInter() {
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
             </a> */}
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() => handleOpenModal("/")}
             >
               Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
           </div>
         </div>
       </section>

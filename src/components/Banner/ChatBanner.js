@@ -8,12 +8,6 @@ const images = [
 ];
 
 const ChatBanner = () => {
-  const mystyle = {
-    color: "black",
-    fontSize: "clamp(14px, 4vw, 32px)",
-    objectFit: "cover",
-    fontweight: "800",
-  };
 
   return (
     <Carousel fade={true} controls={false}>
@@ -25,12 +19,12 @@ const ChatBanner = () => {
             alt={`Slide ${index + 1}`}
           />
           <Carousel.Caption className="">
-            <a
+            <span
               className="btn btn-primary m-2"
               rel="noopener noreferrer"
             >
               Coming Soon Next Year
-            </a>
+            </span>
             <a
               className="btn btn-primary m-2"
               href="https://drive.google.com/file/d/16NbKYbNW9Ni621NUoLZm0M32tkShUruh/view?usp=sharing"

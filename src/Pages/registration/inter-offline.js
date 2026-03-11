@@ -121,13 +121,6 @@ export default function InternationalOffline() {
         setStatusMessage("Data sent successfully!");
 
         // Ambil data sebelum reset
-        const formData = {
-          namaLengkap: selectedMaxNamaLengkap,
-          projectTitle: selectedMaxProject,
-          category: selectedCategory,
-          categoryPrice: categoryPrice,
-          namasekolah: selectedNamaSekolah,
-        };
 
         form.reset();
         setTimeout(() => {
@@ -157,7 +150,7 @@ export default function InternationalOffline() {
         <div className="container">
           <div className="content">
             <div className="sub">REGISTRATION FORM</div>
-            <h1 className="garis-bawah"></h1>
+            <div className="garis-bawah"></div>
             <br />
             <br />
             <h4>
@@ -190,7 +183,7 @@ export default function InternationalOffline() {
             {showModal && (
               <div className="modal-overlay-submit">
                 <div className="modal-submit text-lg-center text-md-center">
-                  <h2 className="text-center">⚠️WARNING!</h2>
+                  <h2 className="text-center"><span role="img" aria-label="Warning">⚠️</span>WARNING!</h2>
                   <p>
                     Submitted data cannot be changed. The committee will use the
                     latest submitted data for certificate printing.
@@ -219,7 +212,7 @@ export default function InternationalOffline() {
 
             <form name="regist-form">
               <h1 className="text-sm md:text-lg lg:text-5xl">BIODATA</h1>
-              <h1 className="garis-bawah"></h1>
+              <div className="garis-bawah"></div>
               <div className="user-details">
                 <div className="input-box">
                   <label for="CATEGORY_PARTICIPANT" className="form-label">
@@ -415,7 +408,7 @@ export default function InternationalOffline() {
               {/* DATA SEKOLAH START */}
               {/* DATA SEKOLAH START */}
               <h1 className="text-sm md:text-lg lg:text-5xl">SCHOOL DATA</h1>
-              <h1 className="garis-bawah"></h1>
+              <div className="garis-bawah"></div>
               <div className="user-details">
                 <div className="input-box">
                   <label for="NAMA_SEKOLAH" className="form-label">
@@ -490,7 +483,7 @@ export default function InternationalOffline() {
               <h1 className="text-sm md:text-lg lg:text-5xl">
                 SUPERVISOR DATA
               </h1>
-              <h1 className="garis-bawah"></h1>
+              <div className="garis-bawah"></div>
               <div className="user-details">
                 <div className="input-box">
                   <label for="NAME_SUPERVISOR" className="form-label">
@@ -548,7 +541,7 @@ export default function InternationalOffline() {
                 <h1 className="text-sm md:text-lg lg:text-5xl">
                   DETAIL PROJECT
                 </h1>
-                <h1 className="garis-bawah"></h1>
+                <div className="garis-bawah"></div>
               </div>
               <div className="user-details">
                 <div className="input-box">
@@ -636,7 +629,7 @@ export default function InternationalOffline() {
                 <h1 className="text-sm md:text-lg lg:text-5xl">
                   GENERAL INFORMATION
                 </h1>
-                <h1 className="garis-bawah"></h1>
+                <div className="garis-bawah"></div>
               </div>
               <div className="user-details">
                 <div className="input-box">

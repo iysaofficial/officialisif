@@ -65,7 +65,7 @@ export default function List2025() {
               <div key={cat.label} className="col-12 col-md-6 col-lg-4">
                 <div className="card h-100 shadow-sm">
                   <div className="card-body d-flex flex-column align-items-center text-center">
-                    <div className="mb-3 fs-1">🏆</div>
+                    <div className="mb-3 fs-1"><span role="img" aria-label="Trophy">🏆</span></div>
                     <h5 className="card-title fw-bold">{cat.label}</h5>
                     <p className="text-muted mb-3">
                       List of Winners {cat.label} - 2025 ({mode})
