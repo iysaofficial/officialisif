@@ -11,7 +11,7 @@ function ListLow() {
     {
       year: 2024,
       color: "primary",
-      link: "https://drive.google.com/file/d/1Bb6Y3n57eDutSn_yGPYXtPbHKQ_7sSsO/view?usp=sharing",
+      link: "https://drive.google.com/drive/u/0/folders/1S_MNcV6_m5WR1xxaqzLB-QPUGfR3RHmB",
       external: false,
     },
     {
