@@ -17,7 +17,7 @@ function ListLow() {
     {
       year: 2023,
       color: "primary",
-      link: "https://drive.google.com/file/d/1CHrakpLFAKqmWhWhMmmwN33LhK_NCryB/view?usp=sharing",
+      link: "https://drive.google.com/file/d/1CHrakpLFAKqmWhWhMmmwN33LhK_NCryB/view?usp=drive_link",
       external: false,
     },
     {
