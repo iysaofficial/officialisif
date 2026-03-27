@@ -66,7 +66,7 @@ function IndonesiaOnline() {
   }, [router]);
 
   // const scriptURL = "https://script.google.com/macros/s/AKfycbw2Uvbe9eIAnj_tF3EphjmgzMbaNe2TvK1qDdSyNGqtk28ZBrPW1Wq-3Py7-n6zG-bgxA/exec";
-  const scriptURL = "";
+  const scriptURL = "https://script.google.com/macros/s/AKfycbwbzpJTSCYzEE1FILJFBMxtvrHYMxUbfRvhiIr-lYkNFiRfAZFz4dZEwJJ4UMbml7-Z/exec";
 
   useEffect(() => {
     const form = document.forms["regist-form"];
@@ -147,7 +147,7 @@ function IndonesiaOnline() {
             <br />
             <br />
             <h4>
-              HELLO ISIF 2025 PARTICIPANTS, Please consider the following
+              HELLO ISIF 2026 PARTICIPANTS, Please consider the following
               information before filling out the registration form :
             </h4>
             <br />
@@ -688,7 +688,7 @@ function IndonesiaOnline() {
               {/* GENERAL INFORMATION END */}
 
               <div className="button">
-                <input type="submit" value="CLOSE REGISTRATION" />
+                <input type="submit" value="SUBMIT FORM" />
               </div>
             </form>
 

@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-// import {
-//   internationalOfflineTerms,
-//   internationalOnlineTerms,
-// } from "../data/term";
+import {
+  internationalOfflineTerms,
+  internationalOnlineTerms,
+} from "../data/term";
 import "./../../assets/registration.css";
 import CustomNavbar from "../../components/CustomNavbar";
 import Footer from "../../components/Footer/Footer";
@@ -48,41 +48,41 @@ function HomeInter() {
                 REGISTRATION FORM FOR INTERNATIONAL PARTICIPANTS
               </h1>
               <h3 className="mx-auto mt-5 mb-2 text-sm md:text-lg lg:text-2xl">
-                Choose Categories Competition for Registration ISIF 2025
+                Choose Categories Competition for Registration ISIF 2026
               </h3>
             </div>
           </div>
           <div className="link-web mx-auto text-center">
-            {/* <a
+            <a
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/inter-online", internationalOnlineTerms)
               }
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
-            </a> */}
-            <button
+            </a>
+            {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() => handleOpenModal("/")}
             >
-              Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </button>
-            {/* <a
+              Online Competition <i className="fa-solid fa-earth-americas"></i>
+            </button> */}
+            <a
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/inter-offline", internationalOfflineTerms)
               }
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
-            </a> */}
-            <button
+            </a>
+            {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() => handleOpenModal("/")}
             >
-              Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </button>
+              Offline Competition <i className="fa-solid fa-earth-americas"></i>
+            </button> */}
           </div>
         </div>
       </section>

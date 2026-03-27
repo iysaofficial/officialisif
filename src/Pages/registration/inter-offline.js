@@ -71,7 +71,7 @@ export default function InternationalOffline() {
   }, [router]);
 
   const scriptURL =
-    "";
+    "https://script.google.com/macros/s/AKfycbz5vf0rdG_LyDDnW2DyjWCwxtEpaGpK_9MBpVY2TQgTYSrX4YXyc4wxxm4QEpP5FH5-/exec";
   // const scriptURL =
   //   "https://script.google.com/macros/s/AKfycbwWAyzrg6YUEe07nvsJy_lFd36K3ifRieO9WaWUaqrRkwFTRdqpYJ7U4xsshZZWgzfiEA/exec";
 
@@ -154,7 +154,7 @@ export default function InternationalOffline() {
             <br />
             <br />
             <h4>
-              HELLO ISIF 2025 PARTICIPANTS, Please consider the following
+              HELLO ISIF 2026 PARTICIPANTS, Please consider the following
               information before filling out the registration form :
             </h4>
             <br />
@@ -656,7 +656,7 @@ export default function InternationalOffline() {
 
                 <div className="input-box">
                   <label for="INFORMATION_RESOURCES" className="form-label">
-                    ISIF 2025 Competition Information Resources
+                    ISIF 2026 Competition Information Resources
                   </label>
                   <select
                     type="text"
@@ -684,7 +684,7 @@ export default function InternationalOffline() {
                 </div>
               </div>
               <div className="button">
-                <input type="submit" value="CLOSE REGISTRATION" />
+                <input type="submit" value="SUBMIT" />
               </div>
             </form>
 

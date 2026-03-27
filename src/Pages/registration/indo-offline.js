@@ -67,7 +67,7 @@ function IndonesiaOffline() {
   }, [router]);
 
   // const scriptURL = "https://script.google.com/macros/s/AKfycbz9eEWX23Apk5_MRgfzf2MaIGc_FQsABmg-pl8zZzEndJJ7aFMVoTDpnNMRa8erRM6ISw/exec";
-  const scriptURL = "";
+  const scriptURL = "https://script.google.com/macros/s/AKfycby6TymadErLDbK44jx4IyIcgihNmpvi9sDXnyBR_axL_-ivxi40S2jCJxkcctTmSBMO/exec";
 
   useEffect(() => {
     const form = document.forms["regist-form"];
@@ -148,7 +148,7 @@ function IndonesiaOffline() {
             <br />
             <br />
             <h4>
-              HELLO ISIF 2025 PARTICIPANTS, Please consider the following
+              HELLO ISIF 2026 PARTICIPANTS, Please consider the following
               information before filling out the registration form :
             </h4>
             <br />
@@ -620,7 +620,7 @@ function IndonesiaOffline() {
                 </div>
                 <div className="input-box">
                   <label for="INFORMATION_RESOURCES" className="form-label">
-                    ISIF 2025 Competition Information Resources
+                    ISIF 2026 Competition Information Resources
                   </label>
                   <select
                     type="text"
@@ -664,7 +664,7 @@ function IndonesiaOffline() {
               {/* GENERAL INFORMATION END */}
 
               <div className="button">
-                <input type="submit" value="CLOSE REGISTRATION" />
+                <input type="submit" value="SUBMIT" />
               </div>
             </form>
             {/* Loader dan Status Message */}

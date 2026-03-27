@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./../../assets/registration.css";
 import CustomNavbar from "../../components/CustomNavbar";
+import { indonesiaOnlineTerms, indonesiaOfflineTerms } from "../data/term";
 import Footer from "../../components/Footer/Footer";
 import FooterData from "../../components/Footer/FooterData";
 
@@ -44,43 +45,45 @@ function HomeIndo() {
                 REGISTRATION FORM FOR INDONESIA PARTICIPANTS
               </h1>
               <h3 className="mx-auto mt-5 mb-2 text-sm md:text-lg lg:text-2xl">
-                Choose Categories Competition for Registration ISIF 2025
+                Choose Categories Competition for Registration ISIF 2026
               </h3>
             </div>
           </div>
           <div className="link-web mx-auto text-center">
-            {/* <a
+            <a
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/indo-online", indonesiaOnlineTerms)
               }
-            > */}
-            <button
+            >
+              Online Competition <i className="fa-solid fa-earth-americas"></i>
+            </a>
+            {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
-                handleOpenModal("/", )
+                handleOpenModal("/indo-online", )
               }
             >
-              Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </button>
-            {/* <a
+              Online Competition <i className="fa-solid fa-earth-americas"></i>
+            </button> */}
+            <a
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/indo-offline", indonesiaOfflineTerms)
               }
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
-            </a> */}
-            <button
+            </a>
+            {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
-                handleOpenModal("/", )
+                handleOpenModal("/indo-offline", )
               }
             >
-              Close Registration <i className="fa-solid fa-earth-americas"></i>
-            </button>
+              Offline Competition <i className="fa-solid fa-earth-americas"></i>
+            </button> */}
           </div>
         </div>
       </section>

@@ -73,7 +73,7 @@ export default function InternationalOnline() {
   }, [router]);
 
   // const scriptURL = "https://script.google.com/macros/s/AKfycbw24MdVdCU50BwvsyE5VW3evsv7gdpVVxCH4FmYbAeXUeKjer9zYVJdVqH4c_YnwJl8sw/exec";
-  const scriptURL = "";
+  const scriptURL = "https://script.google.com/macros/s/AKfycbzlUDkwmC8CpWOjHjpG1BRADd1Q7pNX3Fi0wevEo7Pf62B0dKV5L1NSIJZAiXnLuSoR/exec";
 
   useEffect(() => {
     const form = document.forms["regist-form"];
@@ -154,7 +154,7 @@ export default function InternationalOnline() {
             <br />
             <br />
             <h4>
-              HELLO ISIF 2025 PARTICIPANTS, Please consider the following
+              HELLO ISIF 2026 PARTICIPANTS, Please consider the following
               information before filling out the registration form :
             </h4>
             <br />
@@ -685,7 +685,7 @@ export default function InternationalOnline() {
 
                 <div className="input-box">
                   <label for="INFORMATION_RESOURCES" className="form-label">
-                    ISIF 2025 Competition Information Resources
+                    ISIF 2026 Competition Information Resources
                   </label>
                   <select
                     type="text"
@@ -713,7 +713,7 @@ export default function InternationalOnline() {
                 </div>
               </div>
               <div className="button">
-                <input type="submit" value="CLOSE REGISTRATION" />
+                <input type="submit" value="SUBMIT" />
               </div>
             </form>
 
