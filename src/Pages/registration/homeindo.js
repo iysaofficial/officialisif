@@ -50,14 +50,15 @@ function HomeIndo() {
             </div>
           </div>
           <div className="link-web mx-auto text-center">
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/indo-online", indonesiaOnlineTerms)
               }
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
             {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
@@ -67,14 +68,15 @@ function HomeIndo() {
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
             </button> */}
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/indo-offline", indonesiaOfflineTerms)
               }
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
             {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"

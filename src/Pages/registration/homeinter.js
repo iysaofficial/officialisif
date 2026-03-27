@@ -53,14 +53,15 @@ function HomeInter() {
             </div>
           </div>
           <div className="link-web mx-auto text-center">
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/inter-online", internationalOnlineTerms)
               }
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
             {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
@@ -68,14 +69,15 @@ function HomeInter() {
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
             </button> */}
-            <a
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
                 handleOpenModal("/inter-offline", internationalOfflineTerms)
               }
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
-            </a>
+            </button>
             {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
