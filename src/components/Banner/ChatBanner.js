@@ -19,14 +19,12 @@ const ChatBanner = () => {
             alt={`Slide ${index + 1}`}
           />
           <Carousel.Caption className="">
-            <a
+            <button
               className="btn btn-primary m-2"
-              // href="/homeregist"
-              target="_blank"
-              rel="noopener noreferrer"
+              disabled
             >
               Registration Closed!
-            </a>
+            </button>
             {/* <a
               className="btn btn-primary m-2"
               href="https://drive.google.com/file/d/1AK70IN-E8kClVRElN0auy7ITq0e9RjYK/view?usp=sharing"
