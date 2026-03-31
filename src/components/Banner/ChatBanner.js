@@ -21,20 +21,20 @@ const ChatBanner = () => {
           <Carousel.Caption className="">
             <a
               className="btn btn-primary m-2"
-              href="/homeregist"
+              // href="/homeregist"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Registration Here !
+              Registration Closed!
             </a>
-            <a
+            {/* <a
               className="btn btn-primary m-2"
               href="https://drive.google.com/file/d/1AK70IN-E8kClVRElN0auy7ITq0e9RjYK/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
               Guide Book
-            </a>
+            </a> */}
           </Carousel.Caption>
         </Carousel.Item>
       ))}
