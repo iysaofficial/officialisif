@@ -21,7 +21,7 @@ const ImageSlider = () => {
     },
     desktop: {
       breakpoint: { max: 1440, min: 1024 },
-      items: 4,
+      items: 4, 
     },
     tablet: {
       breakpoint: { max: 1024, min: 640 },

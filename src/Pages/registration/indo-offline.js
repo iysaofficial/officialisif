@@ -537,13 +537,13 @@ function IndonesiaOffline() {
                   >
                     <option value="">--Choose Categories--</option>
                     <option value="Mathematics">Mathematics</option>
-                    <option value="Life Science">Life Science</option>
+                    <option value="Life Sciences">Life Sciences</option>
                     <option value="Technology">Technology</option>
                     <option value="Physics, Energy and Engineering">
                       Physics, Energy and Engineering
                     </option>
                     <option value="Environment">Environment</option>
-                    <option value="Social Science">Social Science</option>
+                    <option value="Social Sciences">Social Sciences</option>
                     <option value="Education">Education</option>
                   </select>
                 </div>

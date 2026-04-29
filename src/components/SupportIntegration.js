@@ -19,7 +19,7 @@ class SupportIntegration extends Component {
         {
           id: 102,
           iImage: "science.png",
-          text: "LIFE SCIENCE",
+          text: "LIFE SCIENCES",
         },
         {
           id: 103,
@@ -34,7 +34,7 @@ class SupportIntegration extends Component {
         {
           id: 105,
           iImage: "social-science.png",
-          text: "SOCIAL SCIENCE",
+          text: "SOCIAL SCIENCES",
         },
         {
           id: 106,

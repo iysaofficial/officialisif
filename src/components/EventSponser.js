@@ -14,8 +14,9 @@ const EventSponser = () => {
               <div className="col-lg-9 col-md-8">
                 <div className="row ">
                   <EventSponserLogo image="iysa.png" />
-                  <EventSponserLogo image="vokasi.png" />
-                  <EventSponserLogo image="IZMIR IISEEF.png" />
+                  <EventSponserLogo image="Logo UI-11.png" />
+                  {/* <EventSponserLogo image="vokasi.png" />
+                  <EventSponserLogo image="IZMIR IISEEF.png" /> */}
                 </div>
               </div>
             </div>
