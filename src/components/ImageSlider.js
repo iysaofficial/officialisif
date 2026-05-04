@@ -29,38 +29,69 @@ const ImageSlider = () => {
     },
     mobile: {
       breakpoint: { max: 640, min: 0 },
-      items: 1,
+      items: 2,
     },
   };
 
   return (
-    <div className="my-4">
-      <Carousel
-        responsive={responsive}
-        infinite={true}
-        autoPlay={true}
-        autoPlaySpeed={2000}
-        keyBoardControl={true}
-        showDots={false}
-        arrows={false}
-      >
-        {images.map((src, index) => (
-          <div key={index} className="px-1">
-            <img
-              src={src}
-              alt={`Slide ${index + 1}`}
-              style={{
-                width: "100%",
-                height: "150px",
-                objectFit: "cover",
-                borderRadius: "12px",
-              }}
-            />
-          </div>
-        ))}
-      </Carousel>
-    </div>
+    <>
+      <style>
+        {`
+          /* ===== DEFAULT / DESKTOP (unchanged) ===== */
+          .slider-image {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 12px;
+          }
+          .slider-item {
+            padding: 0 4px;
+          }
+
+          /* ========== TABLET (641px - 1023px) ========== */
+          @media (max-width: 1023px) {
+            .slider-image {
+              height: 120px;
+              border-radius: 10px;
+            }
+          }
+
+          /* ========== MOBILE (≤640px) ========== */
+          @media (max-width: 640px) {
+            .slider-image {
+              height: 100px;
+              border-radius: 8px;
+            }
+            .slider-item {
+              padding: 0 3px;
+            }
+          }
+        `}
+      </style>
+      <div className="my-4">
+        <Carousel
+          responsive={responsive}
+          infinite={true}
+          autoPlay={true}
+          autoPlaySpeed={2000}
+          keyBoardControl={true}
+          showDots={false}
+          arrows={false}
+        >
+          {images.map((src, index) => (
+            <div key={index} className="slider-item">
+              <img
+                src={src}
+                alt={`Slide ${index + 1}`}
+                className="slider-image"
+              />
+            </div>
+          ))}
+        </Carousel>
+      </div>
+    </>
   );
 };
 
 export default ImageSlider;
+

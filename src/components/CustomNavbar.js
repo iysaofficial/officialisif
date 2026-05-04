@@ -21,14 +21,18 @@ class CustomNavbar extends Component {
                   src={require("../img/home_isif.png")}
                   alt=""
                   style={{
-                    width: "163px",
+                    width: "100%",
+                    maxWidth: "163px",
+                    height: "auto",
                   }}
                 />
                 <img
                   src={require("../img/home_isif.png")}
                   alt="logo"
                   style={{
-                    width: "163px",
+                    width: "100%",
+                    maxWidth: "163px",
+                    height: "auto",
                   }}
                 />
               </Link>
