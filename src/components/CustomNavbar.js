@@ -366,7 +366,7 @@ class CustomNavbar extends Component {
                       className="nav-link"
                       target="_blank"
                       rel="noopener noreferrer"
-                      href="https://drive.google.com/file/d/16NbKYbNW9Ni621NUoLZm0M32tkShUruh/view?usp=sharing"
+                      href="https://drive.google.com/drive/folders/1uqEaNikSPC6k1TDS3UYsIjw0Q-q9jSGm?usp=sharing"
                     >
                       Guide Book
                     </a>
