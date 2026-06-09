@@ -50,7 +50,7 @@ function IndonesiaOnline() {
     // Logika untuk menentukan harga berdasarkan kategori yang dipilih
     switch (value) {
       case "International Science and Invention Fair - Online Competition":
-        setCategoryPrice("RP 950.000");
+        setCategoryPrice("RP 1.150.000");
         break;
       default:
         break;
