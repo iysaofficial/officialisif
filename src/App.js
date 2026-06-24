@@ -28,6 +28,7 @@ import IndonesiaOnline from "./Pages/registration/indo-online";
 import Thankyouinter from "./Pages/registration/thankyouinter";
 import InternationalOnline from "./Pages/registration/inter-online";
 import InternationalOffline from "./Pages/registration/inter-offline";
+import CertSupervisor2026 from "./Pages/registration/certsupervisor2026";
 
 class App extends Component {
   componentDidMount() {
@@ -62,6 +63,7 @@ class App extends Component {
           <ScrollToTopRoute path="/inter-online" component={InternationalOnline} />
           <ScrollToTopRoute path="/inter-offline" component={InternationalOffline} />
           <ScrollToTopRoute path="/thankyouinter" component={Thankyouinter} />
+          <ScrollToTopRoute path="/certsupervisor2026" component={CertSupervisor2026} />
 
           <ScrollToTopRoute component={NotFound} />
         </Switch>

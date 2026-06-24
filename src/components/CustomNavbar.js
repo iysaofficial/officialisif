@@ -231,6 +231,16 @@ class CustomNavbar extends Component {
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
+                        <NavLink
+                          exact
+                          title="Certificate Supervisor 2026"
+                          className="nav-link"
+                          to="/certsupervisor2026"
+                        >
+                          Certificate Supervisor 2026
+                        </NavLink>
+                      </li>
+                      <li className="nav-item">
                         <a
                           href="https://drive.google.com/drive/folders/1l-WOo8TwEBAcD6k21bNUsSXSEEeX0W9n?usp=sharing"
                           target="_blank"
@@ -238,7 +248,7 @@ class CustomNavbar extends Component {
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor Online 2025
+                          Certificate Supervisor 2025
                         </a>
                       </li>
                       <li className="nav-item">
@@ -249,7 +259,7 @@ class CustomNavbar extends Component {
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor Online 2024
+                          Certificate Supervisor 2024
                         </a>
                       </li>
                       <li className="nav-item">
@@ -260,7 +270,7 @@ class CustomNavbar extends Component {
                           title="Certificate Supervisor"
                           className="nav-link"
                         >
-                          Certificate Supervisor Online 2023
+                          Certificate Supervisor 2023
                         </a>
                       </li>
                     </ul>
