@@ -346,6 +346,7 @@ export default function InternationalOnline() {
                     <option value="Finlandia +358">Finlandia +358</option>
                     <option value="Hongaria +36">Hongaria +36</option>
                     <option value="Hongkong +852">Hongkong +852</option>
+                    <option value="Indonesia +62">Indonesia +62</option>
                     <option value="India +91">India +91</option>
                     <option value="Irak +964">Irak +964</option>
                     <option value="Iran +98">Iran +98</option>
