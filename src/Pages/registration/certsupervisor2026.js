@@ -21,24 +21,22 @@ const CertSupervisor2026 = () => {
             </div>
           </div>
           <div className="link-web mx-auto text-center">
-            <a
-              href="#"
-              target="_blank"
-              rel="noreferrer noopener"
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
+              onClick={() => window.open("#", "_blank")}
             >
               Online Competition{" "}
               <i className="fa-solid fa-globe"></i>
-            </a>
-            <a
-              href="#"
-              target="_blank"
-              rel="noreferrer noopener"
+            </button>
+            <button
+              type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
+              onClick={() => window.open("#", "_blank")}
             >
               Offline Competition{" "}
               <i className="fa-solid fa-building"></i>
-            </a>
+            </button>
           </div>
         </div>
       </section>
