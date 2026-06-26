@@ -24,7 +24,7 @@ const FooterData = {
         },
         {
           id: 3,
-          link: "https://drive.google.com/file/d/16NbKYbNW9Ni621NUoLZm0M32tkShUruh/view?usp=sharing",
+          link: "https://drive.google.com/drive/folders/1uqEaNikSPC6k1TDS3UYsIjw0Q-q9jSGm?usp=sharing",
           data: "Guide Book",
         },
       ],

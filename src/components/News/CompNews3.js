@@ -43,8 +43,8 @@ const CompNews3 = () => {
                       Pendidikan Ganesha Bali on November 1-4, 2022 and was
                       attended by 614 teams from 32 countries. The international
                       event competed in 7 categories, namely Matematics;
-                      Physics, Energy, and Engineering; Life Science;
-                      Technology; Environment; Social Science; and Education.
+                      Physics, Energy, and Engineering; Life Sciences;
+                      Technology; Environment; Social Sciences; and Education.
                       All participants are required to make presentations in
                       full English. The Unsoed delegation at the event delivered
                       a presentation entitled "SERENA (Social Economic

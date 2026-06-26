@@ -32,7 +32,7 @@ const CompNews2 = () => {
                       Association (IYSA), November 1-5, 2022.Dimas Prayoga and
                       four team members, namely Pratama Satya Nugraha, Ramadhina
                       Aila Putri, Widia Lorenza, and Tirtha Melinda Suhartati,
-                      won gold medals in the Social Science category through
+                      won gold medals in the Social Sciences category through
                       Creading innovation products.
                     </p>
                     <p className="ratakirkan">

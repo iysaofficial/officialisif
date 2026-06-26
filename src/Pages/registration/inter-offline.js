@@ -348,6 +348,7 @@ export default function InternationalOffline() {
                     <option value="Finlandia +358">Finlandia +358</option>
                     <option value="Hongaria +36">Hongaria +36</option>
                     <option value="Hongkong +852">Hongkong +852</option>
+                    <option value="Indonesia +62">Indonesia +62</option>
                     <option value="India +91">India +91</option>
                     <option value="Irak +964">Irak +964</option>
                     <option value="Iran +98">Iran +98</option>
@@ -575,13 +576,13 @@ export default function InternationalOffline() {
                   >
                     <option value="">--Choose Categories--</option>
                     <option value="Mathematics">Mathematics</option>
-                    <option value="Life Science">Life Science</option>
+                    <option value="Life Sciences">Life Sciences</option>
                     <option value="Technology">Technology</option>
                     <option value="Physics, Energy and Engineering">
                       Physics, Energy and Engineering
                     </option>
                     <option value="Environment">Environment</option>
-                    <option value="Social Science">Social Science</option>
+                    <option value="Social Sciences">Social Sciences</option>
                     <option value="Education">Education</option>
                   </select>
                 </div>
