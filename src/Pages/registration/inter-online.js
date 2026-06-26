@@ -49,7 +49,7 @@ export default function InternationalOnline() {
     // Logika untuk menentukan harga berdasarkan kategori yang dipilih
     switch (value) {
       case "International Science and Invention Fair - Online Competition":
-        setCategoryPrice("$75 USD");
+        setCategoryPrice("$85 USD");
         break;
       case "International Science and Invention Fair - Online Competition + Certificate and Medal (SOUTH EAST ASIA ONLY)":
         setCategoryPrice("$200 USD");
@@ -73,7 +73,8 @@ export default function InternationalOnline() {
   }, [router]);
 
   // const scriptURL = "https://script.google.com/macros/s/AKfycbw24MdVdCU50BwvsyE5VW3evsv7gdpVVxCH4FmYbAeXUeKjer9zYVJdVqH4c_YnwJl8sw/exec";
-  const scriptURL = "https://script.google.com/macros/s/AKfycbzlUDkwmC8CpWOjHjpG1BRADd1Q7pNX3Fi0wevEo7Pf62B0dKV5L1NSIJZAiXnLuSoR/exec";
+  const scriptURL =
+    "https://script.google.com/macros/s/AKfycbzlUDkwmC8CpWOjHjpG1BRADd1Q7pNX3Fi0wevEo7Pf62B0dKV5L1NSIJZAiXnLuSoR/exec";
 
   useEffect(() => {
     const form = document.forms["regist-form"];
@@ -126,11 +127,11 @@ export default function InternationalOnline() {
         setTimeout(() => {
           router.push(
             `/thankyouinter?namaLengkap=${encodeURIComponent(
-              selectedMaxNamaLengkap
+              selectedMaxNamaLengkap,
             )}
             &projectTitle=${encodeURIComponent(selectedMaxProject)}
             &category=${encodeURIComponent(selectedCategory)}
-            &namasekolah=${encodeURIComponent(selectedNamaSekolah)}`
+            &namasekolah=${encodeURIComponent(selectedNamaSekolah)}`,
           );
         }, 1000);
       } else {
@@ -183,7 +184,12 @@ export default function InternationalOnline() {
             {showModal && (
               <div className="modal-overlay-submit">
                 <div className="modal-submit text-lg-center text-md-center">
-                  <h2 className="text-center"><span role="img" aria-label="Warning">⚠️</span>WARNING!</h2>
+                  <h2 className="text-center">
+                    <span role="img" aria-label="Warning">
+                      ⚠️
+                    </span>
+                    WARNING!
+                  </h2>
                   <p>
                     Submitted data cannot be changed. The committee will use the
                     latest submitted data for certificate printing.
@@ -202,8 +208,8 @@ export default function InternationalOnline() {
                       {isLoading
                         ? "Submitting..."
                         : canClick
-                        ? "Continue"
-                        : `Please wait... ${countdown}`}
+                          ? "Continue"
+                          : `Please wait... ${countdown}`}
                     </button>
                   </div>
                 </div>
@@ -575,27 +581,15 @@ export default function InternationalOnline() {
                     required
                   >
                     <option value="">--Choose Categories--</option>
-                    <option value="Mathematics">
-                      Mathematics
-                    </option>
-                    <option value="Life Science">
-                      Life Science
-                    </option>
-                    <option value="Technology">
-                      Technology
-                    </option>
+                    <option value="Mathematics">Mathematics</option>
+                    <option value="Life Science">Life Science</option>
+                    <option value="Technology">Technology</option>
                     <option value="Physics, Energy and Engineering">
                       Physics, Energy and Engineering
                     </option>
-                    <option value="Environment">
-                      Environment
-                    </option>
-                    <option value="Social Science">
-                      Social Science
-                    </option>
-                    <option value="Education">
-                      Education
-                    </option>
+                    <option value="Environment">Environment</option>
+                    <option value="Social Science">Social Science</option>
+                    <option value="Education">Education</option>
                   </select>
                 </div>
                 <div className="input-box ">
