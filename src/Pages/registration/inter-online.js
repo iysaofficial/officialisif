@@ -582,17 +582,6 @@ export default function InternationalOnline() {
                     required
                   >
                     <option value="">--Choose Categories--</option>
-<<<<<<< HEAD
-                    <option value="Mathematics">Mathematics</option>
-                    <option value="Life Science">Life Science</option>
-                    <option value="Technology">Technology</option>
-                    <option value="Physics, Energy and Engineering">
-                      Physics, Energy and Engineering
-                    </option>
-                    <option value="Environment">Environment</option>
-                    <option value="Social Science">Social Science</option>
-                    <option value="Education">Education</option>
-=======
                     <option value="Mathematics">
                       Mathematics
                     </option>
@@ -614,7 +603,6 @@ export default function InternationalOnline() {
                     <option value="Education">
                       Education
                     </option>
->>>>>>> cf882acefc2ca04fe2a7aba4f50743d796b16805
                   </select>
                 </div>
                 <div className="input-box ">
