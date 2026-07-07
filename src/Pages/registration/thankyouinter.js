@@ -47,7 +47,7 @@ function Thankyouinter() {
             successful registration
           </strong>
         </p>
-        <Link to="/homeinter" className="btn btn-action">
+        <Link to="/homeregist" className="btn btn-action">
           Back to Registration Menu
         </Link>
       </div>
