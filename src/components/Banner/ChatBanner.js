@@ -3,10 +3,10 @@ import Carousel from "react-bootstrap/Carousel";
 import { Link } from "react-router-dom";
 
 const images = [
-  "https://ik.imagekit.io/iysaimg/ASSET%20IYSA/BG_ui_hvuc8p.png?updatedAt=1781963635481",
+  "https://ik.imagekit.io/iysaimg/tr:w-1440,q-75,f-auto/ASSET%20IYSA/BG_ui_hvuc8p.png?updatedAt=1781963635481",
   "/assets/images/2025/ISIF 2025-49.jpg",
   "/assets/images/2025/ISIF 2025-22.jpg",
-  "https://ik.imagekit.io/iysaimg/ASSET%20IYSA/nsif_3_dc8pjp.jpg?updatedAt=1781963634338",
+  "https://ik.imagekit.io/iysaimg/tr:w-1440,q-75,f-auto/ASSET%20IYSA/nsif_3_dc8pjp.jpg?updatedAt=1781963634338",
   "/assets/images/2025/ISIF 2025-49.jpg",
   "/assets/images/2025/ISIF 2025-382.jpg",
   "/assets/images/2025/nsif 3.jpg",
