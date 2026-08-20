@@ -52,10 +52,10 @@ export default function InternationalOnline() {
         setCategoryPrice("$85 USD");
         break;
       case "International Science and Invention Fair - Online Competition + Certificate and Medal (SOUTH EAST ASIA ONLY)":
-        setCategoryPrice("$200 USD");
+        setCategoryPrice("$225 USD");
         break;
       case "International Science and Invention Fair - Online Competition + Certificate and Medal (Exclude SOUTH EAST ASIA)":
-        setCategoryPrice("$250 USD");
+        setCategoryPrice("$275 USD");
         break;
       default:
         setCategoryPrice("");
