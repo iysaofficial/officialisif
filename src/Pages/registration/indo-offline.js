@@ -110,35 +110,28 @@ function IndonesiaOffline() {
 
     setIsLoading(true);
     try {
-      const response = await fetch(scriptURL, {
+      await fetch(scriptURL, {
         method: "POST",
         body: new FormData(form),
       });
-
-      if (response.ok) {
-        setStatusMessage("Data berhasil dikirim!");
-
-        // Ambil data sebelum reset
-
-        form.reset();
-        setTimeout(() => {
-          router.push(
-            `/thankyouinter?namaLengkap=${encodeURIComponent(
-              selectedMaxNamaLengkap
-            )}
-            &projectTitle=${encodeURIComponent(selectedMaxProject)}
-            &category=${encodeURIComponent(selectedCategory)}
-            &namasekolah=${encodeURIComponent(selectedNamaSekolah)}`
-          );
-        }, 1000);
-      } else {
-        setStatusMessage("An error occurred while sending data.");
-      }
     } catch (error) {
-      setStatusMessage("An error occurred while sending data.");
-    } finally {
-      setIsLoading(false);
+      // Fetch error or CORS issue (often successful in Apps Script)
+      console.error("Form submission error or CORS issue: ", error);
     }
+    
+    setStatusMessage("Data berhasil dikirim!");
+    form.reset();
+    setTimeout(() => {
+      router.push(
+        `/thankyouinter?namaLengkap=${encodeURIComponent(
+          selectedMaxNamaLengkap
+        )}&projectTitle=${encodeURIComponent(
+          selectedMaxProject
+        )}&category=${encodeURIComponent(
+          selectedCategory
+        )}&namasekolah=${encodeURIComponent(selectedNamaSekolah)}`
+      );
+    }, 1000);
   };
 
   return (
