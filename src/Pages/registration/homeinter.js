@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-// eslint-disable-next-line no-unused-vars
+/*
 import {
   internationalOfflineTerms,
   internationalOnlineTerms,
 } from "../data/term";
+*/
 import "./../../assets/registration.css";
 import CustomNavbar from "../../components/CustomNavbar";
 import Footer from "../../components/Footer/Footer";
