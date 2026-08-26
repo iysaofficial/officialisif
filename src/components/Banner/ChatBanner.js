@@ -3,7 +3,7 @@ import Carousel from "react-bootstrap/Carousel";
 import { Link } from "react-router-dom";
 
 const images = [
-  "/assets/images/2025/bg_ui_hvuc8p.png",
+  "/assets/images/2025/BG_ui_hvuc8p.png",
   "/assets/images/2025/nsif_3_dc8pjp.jpg",
   "/assets/images/2025/ISIF 2025-49.jpg",
   "/assets/images/2025/ISIF 2025-22.jpg",
