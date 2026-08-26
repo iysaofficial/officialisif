@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./../../assets/registration.css";
 import CustomNavbar from "../../components/CustomNavbar";
+// eslint-disable-next-line no-unused-vars
 import { indonesiaOnlineTerms, indonesiaOfflineTerms } from "../data/term";
 import Footer from "../../components/Footer/Footer";
 import FooterData from "../../components/Footer/FooterData";
@@ -11,6 +12,7 @@ function HomeIndo() {
   const [redirectLink, setRedirectLink] = useState("");
   const [termsContent, setTermsContent] = useState("");
 
+  // eslint-disable-next-line no-unused-vars
   const handleOpenModal = (link, terms) => {
     setRedirectLink(link);
     setTermsContent(terms);

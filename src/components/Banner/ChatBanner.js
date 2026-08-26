@@ -1,5 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
+// eslint-disable-next-line no-unused-vars
 import { Link } from "react-router-dom";
 
 const images = [
@@ -102,7 +103,7 @@ const ChatBanner = () => {
               >
                 Registration Here !
               </Link> */}
-              <a className="btn btn-primary m-2" style={{ cursor: "not-allowed", pointerEvents: "none" }}>Coming Soon 2027</a>
+              <button type="button" className="btn btn-primary m-2" style={{ cursor: "not-allowed", pointerEvents: "none" }}>Coming Soon 2027</button>
               <a
                 className="btn btn-primary m-2"
                 href="https://drive.google.com/drive/folders/1uqEaNikSPC6k1TDS3UYsIjw0Q-q9jSGm?usp=sharing"
