@@ -50,7 +50,7 @@ function HomeIndo() {
             </div>
           </div>
           <div className="link-web mx-auto text-center">
-            <button
+            {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
@@ -58,6 +58,13 @@ function HomeIndo() {
               }
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
+            </button> */}
+            <button
+              type="button"
+              className="btn-regist btn-action text-center me-lg-5 m-2"
+              style={{ cursor: "not-allowed", opacity: 0.7 }}
+            >
+              Coming Soon 2027
             </button>
             {/* <button
               type="button"
@@ -68,7 +75,7 @@ function HomeIndo() {
             >
               Online Competition <i className="fa-solid fa-earth-americas"></i>
             </button> */}
-            <button
+            {/* <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
               onClick={() =>
@@ -76,6 +83,13 @@ function HomeIndo() {
               }
             >
               Offline Competition <i className="fa-solid fa-earth-americas"></i>
+            </button> */}
+            <button
+              type="button"
+              className="btn-regist btn-action text-center me-lg-5 m-2"
+              style={{ cursor: "not-allowed", opacity: 0.7 }}
+            >
+              Coming Soon 2027
             </button>
             {/* <button
               type="button"
