@@ -10,7 +10,8 @@ export default function List2025() {
       driveLink: {
         Online:
           "https://drive.google.com/file/d/1pGVGBo56BqFdDJp-_1glj5PWnzlPENoo/view?usp=sharing",
-        Offline: "https://drive.google.com/file/d/19cpnzpMEiOTGj7uHyWeEIGRWT1xVMxW3/view?usp=sharing",
+        Offline:
+          "https://drive.google.com/file/d/19cpnzpMEiOTGj7uHyWeEIGRWT1xVMxW3/view?usp=sharing",
       },
     },
     {
@@ -18,7 +19,8 @@ export default function List2025() {
       driveLink: {
         Online:
           "https://drive.google.com/file/d/1RBFq_crG7zB616C1rZvqA4sURbUnP2-E/view?usp=sharing",
-        Offline: "https://drive.google.com/file/d/1XmROg3IwbDoYRT23FrAIuqsTbcrwaxHP/view?usp=sharing",
+        Offline:
+          "https://drive.google.com/file/d/1XmROg3IwbDoYRT23FrAIuqsTbcrwaxHP/view?usp=sharing",
       },
     },
     {
@@ -26,7 +28,8 @@ export default function List2025() {
       driveLink: {
         Online:
           "https://drive.google.com/file/d/1cG762OfQaHgcrFc1yYhDloqkq2aeIhY8/view?usp=sharing",
-        Offline: "https://drive.google.com/file/d/1pPXYEZgcMJIEsAII4ze5La7VB3opxHh_/view?usp=sharing",
+        Offline:
+          "https://drive.google.com/file/d/1pPXYEZgcMJIEsAII4ze5La7VB3opxHh_/view?usp=sharing",
       },
     },
   ];
@@ -65,7 +68,11 @@ export default function List2025() {
               <div key={cat.label} className="col-12 col-md-6 col-lg-4">
                 <div className="card h-100 shadow-sm">
                   <div className="card-body d-flex flex-column align-items-center text-center">
-                    <div className="mb-3 fs-1"><span role="img" aria-label="Trophy">🏆</span></div>
+                    <div className="mb-3 fs-1">
+                      <span role="img" aria-label="Trophy">
+                        🏆
+                      </span>
+                    </div>
                     <h5 className="card-title fw-bold">{cat.label}</h5>
                     <p className="text-muted mb-3">
                       List of Winners {cat.label} - 2025 ({mode})
@@ -86,7 +93,7 @@ export default function List2025() {
                         type="button"
                         className="btn btn-outline-secondary"
                         disabled
-                        aria-label={`${cat.label} ${mode} coming soon`}
+                        aria-label={`${cat.label} ${mode} Close Registration`}
                       >
                         Soon
                       </button>

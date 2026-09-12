@@ -66,7 +66,7 @@ function HomeIndo() {
               className="btn-regist btn-action text-center me-lg-5 m-2"
               style={{ cursor: "not-allowed", opacity: 0.7 }}
             >
-              Coming Soon 2027
+              Registrasi Ditutup 2027
             </button>
             {/* <button
               type="button"
@@ -91,7 +91,7 @@ function HomeIndo() {
               className="btn-regist btn-action text-center me-lg-5 m-2"
               style={{ cursor: "not-allowed", opacity: 0.7 }}
             >
-              Coming Soon 2027
+              Registrasi Ditutup 2027
             </button>
             {/* <button
               type="button"

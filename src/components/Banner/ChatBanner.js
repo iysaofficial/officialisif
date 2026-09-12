@@ -90,7 +90,11 @@ const ChatBanner = () => {
       </style>
       <Carousel fade={true} controls={false} className="banner-carousel">
         {images.map((imgSrc, index) => (
-          <Carousel.Item key={index} interval={4000} className="text-center carousel-item-wrapper">
+          <Carousel.Item
+            key={index}
+            interval={4000}
+            className="text-center carousel-item-wrapper"
+          >
             <img
               className="d-block w-100 custom-banner-img"
               src={imgSrc}
@@ -103,7 +107,13 @@ const ChatBanner = () => {
               >
                 Registration Here !
               </Link> */}
-              <button type="button" className="btn btn-primary m-2" style={{ cursor: "not-allowed", pointerEvents: "none" }}>Coming Soon 2027</button>
+              <button
+                type="button"
+                className="btn btn-primary m-2"
+                style={{ cursor: "not-allowed", pointerEvents: "none" }}
+              >
+                Close Registration 2027
+              </button>
               <a
                 className="btn btn-primary m-2"
                 href="https://drive.google.com/drive/folders/1uqEaNikSPC6k1TDS3UYsIjw0Q-q9jSGm?usp=sharing"
@@ -121,4 +131,3 @@ const ChatBanner = () => {
 };
 
 export default ChatBanner;
-
