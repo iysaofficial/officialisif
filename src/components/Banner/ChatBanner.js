@@ -112,7 +112,7 @@ const ChatBanner = () => {
                 className="btn btn-primary m-2"
                 style={{ cursor: "not-allowed", pointerEvents: "none" }}
               >
-                Close Registration 2027
+                Close Registration
               </button>
               <a
                 className="btn btn-primary m-2"
