@@ -8,7 +8,7 @@ const images = [
   "/assets/images/2025/nsif_3_dc8pjp.jpg",
   "/assets/images/2025/ISIF 2025-49.jpg",
   "/assets/images/2025/ISIF 2025-22.jpg",
-  "/assets/images/2025/nsif 2.jpg",
+  "/assets/images/2025/ISIF 2025-334.jpg",
   "/assets/images/2025/ISIF 2025-382.jpg",
 ];
 
