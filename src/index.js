@@ -20,9 +20,9 @@ import 'popper.js';
 const loader = document.querySelector('#preloader');
 
 // if you want to show the loader when React loads data again
-const showLoader = () => loader.classList.remove('loader--hide');
+const showLoader = () => loader && loader.classList.remove('loader--hide');
 
-const hideLoader = () => loader.classList.add('loader--hide');
+const hideLoader = () => loader && loader.classList.add('loader--hide');
 
 setTimeout(
   () =>
@@ -30,6 +30,13 @@ setTimeout(
     ReactDOM.render(<App hideLoader={hideLoader} showLoader={showLoader} />, document.getElementById('root')),
   1000
 );
+
+// Safety fallback: auto-hide preloader after 3.5 seconds if still visible
+setTimeout(() => {
+  if (loader && !loader.classList.contains('loader--hide')) {
+    loader.classList.add('loader--hide');
+  }
+}, 3500);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

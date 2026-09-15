@@ -26208,6 +26208,26 @@ a .h_head:hover {
 
 .event_sponser_inner .event_sponser_item .analytices_logo {
   margin-top: 0;
+  padding: 10px;
+  background: transparent !important;
+  box-shadow: none !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.event_sponser_inner .event_sponser_item .analytices_logo:hover {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.event_sponser_inner .event_sponser_item .analytices_logo img {
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), filter 0.3s ease;
+}
+
+.event_sponser_inner .event_sponser_item .analytices_logo:hover img {
+  transform: translateY(-6px) scale(1.06);
+  filter: drop-shadow(0 10px 18px rgba(0, 0, 0, 0.15));
 }
 
 .event_sponser_inner .event_sponser_item .event_btn:hover {

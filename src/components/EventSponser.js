@@ -12,9 +12,17 @@ const EventSponser = () => {
                 <h4 className="h_head sponser_title">Organized By</h4>
               </div>
               <div className="col-lg-9 col-md-8">
-                <div className="row ">
-                  <EventSponserLogo image="iysa.png" />
-                  <EventSponserLogo image="Logo FMIPA UI-10.png" />
+                <div className="row align-items-center">
+                  <EventSponserLogo
+                    colClass="col-lg-5 col-sm-6 col-6"
+                    image="Logo FMIPA UI-10.png"
+                    imgStyle={{ width: "100%", maxHeight: "95px", objectFit: "contain" }}
+                  />
+                  <EventSponserLogo
+                    colClass="col-lg-5 col-sm-6 col-6"
+                    image="LOGO IYSA FIX.png"
+                    imgStyle={{ width: "100%", maxHeight: "95px", objectFit: "contain" }}
+                  />
                   {/* <EventSponserLogo image="vokasi.png" />
                   <EventSponserLogo image="IZMIR IISEEF.png" /> */}
                 </div>
