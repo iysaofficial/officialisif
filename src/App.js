@@ -6,6 +6,7 @@ import Contact from "./Pages/Contact/Contact";
 import ScrollToTopRoute from "./ScrollToTopRoute";
 import ListOfWinner from "./Pages/low/listlow";
 import ListOfWinner2025 from "./Pages/low/low2025";
+import ListOfWinner2026 from "./Pages/low/low2026";
 
 // Import NEWS
 import PageNewsList from "./Pages/News/PageNewsList";
@@ -41,6 +42,7 @@ class App extends Component {
           <ScrollToTopRoute exact={true} path={"/"} component={Home} />
           <ScrollToTopRoute path="/Contact" component={Contact} />
           <ScrollToTopRoute path="/ListOfWinner" component={ListOfWinner} />
+          <ScrollToTopRoute path="/list2026" component={ListOfWinner2026} />
           <ScrollToTopRoute path="/list2025" component={ListOfWinner2025} />
 
           {/* Variabel News */}

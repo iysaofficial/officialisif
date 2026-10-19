@@ -24,7 +24,7 @@ const CertSupervisor2026 = () => {
             <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
-              onClick={() => window.open("#", "_blank")}
+              onClick={() => window.open("https://drive.google.com/drive/folders/1rZRI_fdI-wwt31PiqkcQ03Z22dZbImqd?usp=sharing")}
             >
               Online Competition{" "}
               <i className="fa-solid fa-globe"></i>
@@ -32,7 +32,7 @@ const CertSupervisor2026 = () => {
             <button
               type="button"
               className="btn-regist btn-action text-center me-lg-5 m-2"
-              onClick={() => window.open("#", "_blank")}
+              onClick={() => window.open("https://drive.google.com/drive/folders/1zUDQCZMDIsxBMzz-7P3ngNmEFFpHWh9s?usp=sharing")}
             >
               Offline Competition{" "}
               <i className="fa-solid fa-building"></i>
