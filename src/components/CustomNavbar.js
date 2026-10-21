@@ -93,7 +93,7 @@ class CustomNavbar extends Component {
                       </li>
                       <li className="nav-item">
                         <a
-                          href="https://drive.google.com/file/d/1C0SB63mLWtS1yTSbt3ET9FvFmswDLJiJ/view?usp=sharing"
+                          href="https://drive.google.com/drive/folders/1czx0U5EJ1CBl5IiMFP4sKAW_Nz5T34uJ?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"
                           title="Press Release"
