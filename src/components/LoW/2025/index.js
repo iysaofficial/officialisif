@@ -95,7 +95,7 @@ export default function List2025() {
                         disabled
                         aria-label={`${cat.label} ${mode} Close Registration`}
                       >
-                        Soon
+                        Coming Soon 2027
                       </button>
                     )}
                   </div>

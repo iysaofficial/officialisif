@@ -301,6 +301,16 @@ class CustomNavbar extends Component {
                     <ul role="menu" className=" dropdown-menu">
                       <li className="nav-item">
                         <a
+                          href="https://drive.google.com/drive/folders/1VB4NwdBTuKipGVEbYv9wfgEWEQO5Q75H?usp=sharing"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                          className="nav-link"
+                        >
+                          Gallery 2026
+                        </a>
+                      </li>
+                      <li className="nav-item">
+                        <a
                           href="https://drive.google.com/drive/folders/1p-oWDrc1b9JgqGjVkgZ3tWzin0SCTDed?usp=sharing"
                           target="_blank"
                           rel="noreferrer noopener"

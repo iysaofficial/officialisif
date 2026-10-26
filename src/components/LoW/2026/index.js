@@ -10,7 +10,8 @@ export default function List2026() {
       driveLink: {
         Online:
           "https://drive.google.com/file/d/1mi0ULWVE37sELa6zMirhf-AwAxReijXZ/view?usp=sharing",
-        Offline: "",
+        Offline:
+          "https://drive.google.com/file/d/1xQLw5CB04QA2aSA4n4knHDSR31D6eXmd/view?usp=sharing",
       },
     },
     {
@@ -18,7 +19,8 @@ export default function List2026() {
       driveLink: {
         Online:
           "https://drive.google.com/file/d/1CB-I9N-S_AwKSBsA0EurNsa3_ZU7iAsm/view?usp=sharing",
-        Offline: "",
+        Offline:
+          "https://drive.google.com/file/d/1xb80XthWMz9psReY1yeoCjZ2Zn0Jszrs/view?usp=sharing",
       },
     },
     {
@@ -26,7 +28,8 @@ export default function List2026() {
       driveLink: {
         Online:
           "https://drive.google.com/file/d/1ZYKMB1RZT3XDKD0cANv7cHoH90XKKoP7/view?usp=sharing",
-        Offline: "",
+        Offline:
+          "https://drive.google.com/file/d/1PP7MBJu1a3uBtXOgCv2pLCGRyzmpYcL3/view?usp=sharing",
       },
     },
   ];
