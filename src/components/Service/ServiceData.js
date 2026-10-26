@@ -863,6 +863,115 @@ const ServiceData = {
         "Pagelink": "/PageNews3"
     },
     {
+            "id": "2022-3",
+            "image": "https://unnes.ac.id/feb/wp-content/uploads/sites/12/2022/11/WhatsApp-Image-2022-11-10-at-19.27.41-1-1.jpeg",
+            "btitle": "Mahasiswa FE Raih International Science and Invention Fair (ISIF) 2022 – FEB UNNES",
+            "bdescription": "Mahasiswa Fakultas Ekonomi kembali berhasil membawa nama harum Universitas Negeri Semarang dalam ajang International Science and Invention Fair (ISIF) 2022.",
+            "Month": "NOV",
+            "Year": "2022",
+            "Pagelink": "https://unnes.ac.id/feb/7988/"
+    },
+    {
+            "id": "2022-4",
+            "image": "https://cdn.kemenag.go.id/storage/posts/16_9/big/1667784136.jpeg",
+            "btitle": "Siswa MAN 1 Medan Raih Emas International Science and Invention Fair 2022",
+            "bdescription": "Siswa MAN 1 Medan berhasil mengharumkan nama madrasah dengan meraih medali emas dalam ajang bergengsi International Science and Invention Fair (ISIF) 2022.",
+            "Month": "NOV",
+            "Year": "2022",
+            "Pagelink": "https://kemenag.go.id/ar/internasional/siswa-man-1-medan-raih-emas-international-science-and-invention-fair-2022-01u6b2"
+    },
+    {
+            "id": "2022-5",
+            "image": "https://kemdiktisaintek.go.id/api/file/humas-production/2022/11/UNSOED-Juara-ISIF-2022.jpg",
+            "btitle": "Delegasi UNSOED Raih Gold Medal di Ajang ISIF 2022",
+            "bdescription": "Prestasi di tingkat internasional kembali dipersembahkan oleh mahasiswa FISIP Universitas Jenderal Soedirman (Unsoed). Kali ini di ajang ISIF 2022 di Bali, delegasi Fisip Unsoed berhasil membawa Gold Medal.",
+            "Month": "NOV",
+            "Year": "2022",
+            "Pagelink": "https://kemdiktisaintek.go.id/news/article/delegasi-unsoed-raih-gold-medal-di-ajang-isif-2022"
+    },
+    {
+            "id": "2021-1",
+            "image": "https://assets.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/2021/11/05/2762210602.jpg",
+            "btitle": "ISIF 2021, Tim Riset MTs NU Banat Kudus Raih Medali Emas dan Perak",
+            "bdescription": "Dua tim riset Madrasah Tsanawiyah (MTs) NU Banat Kudus berhasil meraih medali emas dan perak dalam ajang International Science and Invention Fair (ISIF) 2021.",
+            "Month": "NOV",
+            "Year": "2021",
+            "Pagelink": "https://www.suaramerdeka.com/pendidikan/pr-041603450/isif-2021-tim-riset-mts-nu-banat-kudus-raih-medali-emas-dan-perak"
+    },
+    {
+            "id": "2021-2",
+            "image": "https://asset.tribunnews.com/KWh5eEkzT6eKGw3EuDnd-zWketM=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/jateng/foto/bank/originals/5-11-2021-mtsn-1-pati.jpg",
+            "btitle": "Keren, Dua Tim Riset Siswa MTsN 1 Pati Raih Medali dalam Ajang Penemuan Sains Internasional",
+            "bdescription": "Sepuluh siswa MTsN 1 Pati meraih prestasi dalam ajang International Science and Invention Fair (ISIF) 2021 yang digelar pada awal November 2021.",
+            "Month": "NOV",
+            "Year": "2021",
+            "Pagelink": "https://jateng.tribunnews.com/2021/11/05/keren-dua-tim-riset-siswa-mtsn-1-pati-raih-medali-dalam-ajang-penemuan-sains-internasional"
+    },
+    {
+            "id": "2021-3",
+            "image": "https://diy.kemenag.go.id/cdn/news/utama-news-20211104093024.jpg",
+            "btitle": "Tim Riset MAN 3 Sleman Raih Medali Emas Tingkat Internasional, ISIF 2021",
+            "bdescription": "Tim riset MAN 3 Sleman berhasil menorehkan prestasi membanggakan dengan meraih medali emas dalam kompetisi riset tingkat internasional International Science and Invention Fair (ISIF) 2021.",
+            "Month": "NOV",
+            "Year": "2021",
+            "Pagelink": "https://diy.kemenag.go.id/news/18134-tim-riset-man-3-sleman-raih-medali-emas-tingkat-internasional-isif-2021.html"
+    },
+    {
+            "id": "2021-4",
+            "image": "https://undip.ac.id/wp-content/uploads/2021/11/Foto-depan.jpg",
+            "btitle": "Tim FH Undip Raih Medali Emas di International Science and Invention Fair (ISIF) 2021",
+            "bdescription": "Tim Fakultas Hukum (FH) Universitas Diponegoro (Undip) berhasil meraih medali emas dalam ajang Lomba Karya Tulis Ilmiah International Science and Invention Fair (ISIF) 2021.",
+            "Month": "NOV",
+            "Year": "2021",
+            "Pagelink": "https://undip.ac.id/post/22043/tim-fh-undip-raih-medali-emas-di-international-science-and-invention-fair-isif-2021.html"
+    },
+    {
+            "id": "2020-1",
+            "image": "https://riauaktual.com/application/views/web/berita/3707259567-1.jpeg",
+            "btitle": "Keponakan KASAD TNI Menjuarai Kompetisi Karya Ilmiah ISIF 2020",
+            "bdescription": "Keponakan Kepala Staf Angkatan Darat (KASAD) TNI berhasil mengukir prestasi gemilang dengan menjuarai ajang kompetisi karya ilmiah internasional International Science and Invention Fair (ISIF) 2020.",
+            "Month": "NOV",
+            "Year": "2020",
+            "Pagelink": "https://riauaktual.com/news/detail/63768/keponakan-kasad-tni-menjuarai-kompetisi-karya-ilmiah-isif-2020.html"
+    },
+    {
+            "id": "2020-2",
+            "image": "https://gloriaschool.org/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-18-at-16.49.45-300x300.jpeg",
+            "btitle": "Gold Medal & Special Award Kompetisi Karya Ilmiah ISIF 2020 – Sekolah Kristen Gloria",
+            "bdescription": "Selamat kepada siswa-siswi SMA Kristen Gloria 2 yang berhasil meraih Gold Medal dan Special Award dalam ajang International Science and Invention Fair (ISIF) 2020.",
+            "Month": "NOV",
+            "Year": "2020",
+            "Pagelink": "https://gloriaschool.org/gold-medal-special-award-kompetisi-karya-ilmiah-international-science-and-invention-fair-isif-2020/"
+    },
+    {
+            "id": "2020-3",
+            "image": "https://biotek.fsm.undip.ac.id/v1/wp-content/uploads/2020/12/Chiesa-Salsabila-ISIF-2020.jpg",
+            "btitle": "ISIF 2020: Mahasiswa Prodi Bioteknologi Meraih Bronze Medal atas Inovasi Fertilizer Organik Cair",
+            "bdescription": "Mahasiswa Program Studi Bioteknologi Universitas Diponegoro (Undip) berhasil meraih Bronze Medal dalam ajang ISIF 2020 berkat inovasi pembuatan fertilizer organik cair.",
+            "Month": "DEC",
+            "Year": "2020",
+            "Pagelink": "https://biotek.undip.ac.id/2020/12/03/isif-2020-mahasiswa-prodi-bioteknologi-meraih-bronze-medal-atas-inovasi-fertilizer-organik-cair/"
+    },
+    {
+            "id": "2020-4",
+            "image": "https://img.antaranews.com/cache/800x533/2020/11/18/bio-foam-man-2-Kudus.jpg",
+            "btitle": "Pelajar MAN 2 Kudus Raih Empat Emas dalam Kompetisi ISIF 2020",
+            "bdescription": "Sejumlah pelajar Madrasah Aliyah Negeri (MAN) 2 Kabupaten Kudus, Jawa Tengah, berhasil menyabet empat medali emas serta empat medali perak dan perunggu dalam ajang kompetisi karya ilmiah internasional ISIF 2020.",
+            "Month": "NOV",
+            "Year": "2020",
+            "Pagelink": "https://jateng.antaranews.com/berita/350432/pelajar-man-2-kudus-raih-empat-emas-dalam-kompetisi-isif-2020"
+    },
+    {
+            "id": "2020-5",
+            "image": "https://anterokini.com/wp-content/uploads/2020/11/IMG-20201119-WA0006.jpg",
+            "btitle": "Pelajar Aceh Kembali Boyong Lima Medali Pada Ajang Internasional ISIF 2020",
+            "bdescription": "Sejumlah pelajar Aceh kembali menorehkan tinta emas bagi negara Indonesia di ajang Internasional dengan memboyong lima medali pada ajang International Science and Invention Fair (ISIF) 2020.",
+            "Month": "NOV",
+            "Year": "2020",
+            "Pagelink": "https://anterokini.com/2020/11/19/pelajar-aceh-kembali-boyong-lima-medali-pada-ajang-internasional/"
+    },
+
+    {
         "id": "2019-1",
         "image": "blog-grid/2019.jpg",
         "btitle": "27 Research Results of Balinese Students and Students Participate in ISIF International Event",
@@ -870,7 +979,35 @@ const ServiceData = {
         "Month": "JUN",
         "Year": "2019",
         "Pagelink": "/PageNews1"
+    },
+    {
+            "id": "2019-2",
+            "image": "https://unnes.ac.id/ft/wp-content/uploads/sites/9/2019/06/147.jpg",
+            "btitle": "Empat Mahasiswa Fakultas Teknik Raih Silver Medal Dalam Ajang ISIF 2019",
+            "bdescription": "Empat mahasiswa Fakultas Teknik Universitas Negeri Semarang (UNNES) berhasil meraih Silver Medal dalam ajang International Science and Invention Fair (ISIF) 2019 yang digelar di Bali.",
+            "Month": "JUN",
+            "Year": "2019",
+            "Pagelink": "https://unnes.ac.id/ft/id/2019/06/26/empat-mahasiswa-fakultas-teknik-raih-silver-medal-dalam-ajang-isif-2019/"
+    },
+    {
+            "id": "2019-3",
+            "image": "https://static.infonews.id/po-content/uploads/2019/06/IMG-20190624-WA0002.webp",
+            "btitle": "Taruna AAL Gondol Medali Emas ISIF",
+            "bdescription": "Taruna Akademi Angkatan Laut (AAL) meraih juara 1 dengan perolehan 1 medali emas pada International Science and Invention Fair (ISIF) 2019 di Bali.",
+            "Month": "JUN",
+            "Year": "2019",
+            "Pagelink": "https://infonews.id/baca-245-taruna-aal-gondol-medali-emas-isif"
+    },
+    {
+            "id": "2019-4",
+            "image": "https://cdn.timesmedia.co.id/images/2019/07/05/SMA-NSA-Surabaya.jpg",
+            "btitle": "SMA NSA Surabaya Borong Medali ISIF 2019",
+            "bdescription": "Meskipun baru pertama kali terjun dalam ajang Science and Innovation Fair 2019 (ISIF 2019), prestasi membanggakan diukir oleh tiga tim science dari SMA Nation Star Academy (SMA NSA) Surabaya.",
+            "Month": "JUL",
+            "Year": "2019",
+            "Pagelink": "https://timesindonesia.co.id/pendidikan/219353/sma-nsa-surabaya-borong-medali-isif-2019"
     }
+  
 ],
 
   // list detail news
