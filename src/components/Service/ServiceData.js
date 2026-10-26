@@ -170,6 +170,357 @@ const ServiceData = {
     // edit this line to generate new bloglist
   NewsList: [
     {
+            "id": "2026-1",
+            "image": "https://eng.belta.by/images/storage/news/with_archive/2026/000022_1791607505_187231_big.jpg",
+            "btitle": "Belarus win gold, silver at International Science and Invention Fair 2026",
+            "bdescription": "Belarusian school students won gold and silver medals at the International Science and Invention Fair (ISIF) 2026, an international competition of environmental projects and inventions.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://eng.belta.by/society/view/belarusian-school-students-win-gold-silver-at-international-science-and-invention-fair-2026-187231-2026/"
+    },
+    {
+            "id": "2026-2",
+            "image": "https://aldialogoqro.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/10/20174747/Mexicana-gana-oro-en-Indonesia-con-extintor-acustico-que-usa-sonido-VIDEO.webp",
+            "btitle": "Mexicana gana oro en Indonesia con extintor acústico que usa sonido (VIDEO)",
+            "bdescription": "Una estudiante de Tamaulipas ganó oro en Indonesia con un extintor acústico que utiliza ondas sonoras para apagar pequeñas llamas sin agua",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://aldialogo.mx/trending/2026/10/20/extintor-acustico/"
+    },
+    {
+            "id": "2026-3",
+            "image": "https://www.mkpc.edu.hk/wp-content/uploads/2026/10/6-1-1024x768.jpg",
+            "btitle": "The 8th International Science and Invention Fair (ISIF 2026) – Man Kwan Pak Kau College",
+            "bdescription": "Our students represented Hong Kong at the 8th International Science and Invention Fair (ISIF 2026) held at Universitas Indonesia. The students presented Silver Stride and attained Gold Award in the Technology category.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.mkpc.edu.hk/%E7%AC%AC%E5%85%AB%E5%B1%86%E5%9C%8B%E9%9A%9B%E7%A7%91%E5%AD%B8%E5%8F%8A%E7%99%BC%E6%98%8E%E5%8D%9A%E8%A6%BD%E6%9C%83/"
+    },
+    {
+            "id": "2026-4",
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1110505781335651",
+            "btitle": "Mahmudun Nabi Abir",
+            "bdescription": "🏆 Gold Medal Victory on the Global Stage! 🥇 Thrilled to announce that representing Bangladesh 🇧🇩 we won the GOLD MEDAL🏅 in the Technology Category at the International Science and Invention Fair...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.facebook.com/avoidabir777/posts/-gold-medal-victory-on-the-global-stage-thrilled-to-announce-that-representing-b/1110506134668949/"
+    },
+    {
+            "id": "2026-5",
+            "image": "https://scontent.cdninstagram.com/v/t51.82787-15/849853790_18346473919281958_45315849232296344_n.jpg?stp=c240.0.720.720a_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dlV_9SdMjH0Q7kNvwGH1Tsn&_nc_oc=AdoPlxMkL92QuT5VHiXEWFi7LFtIC8l7sH8BbP7JESkWCpXETJMw-4fOwTdCVRa3Tm8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=SZSf_ulPNX3iyoHkecbKqA&_nc_ss=7ca8c&oh=00_AQNk4KunUafnuKzIajnvk03jXFeqhEM7IDoUm3D024QHZg&oe=6AE4AFBB",
+            "btitle": "Mahmudun Nabi Abir on Instagram: \"🏆 Gold Medal Victory on the Global Stage! 🥇 Thrilled to announce that...",
+            "bdescription": "11 likes, 0 comments - avoid_abir_ on October 17, 2026: \"🏆 Gold Medal Victory on the Global Stage! 🥇 Thrilled to announce that representing Bangladesh 🇧🇩 we won the GOLD MEDAL🏅 in the Technology Category at the International Science...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.instagram.com/p/DenGtdHz2o1/"
+    },
+    {
+            "id": "2026-6",
+            "image": "https://scontent.cdninstagram.com/v/t51.82787-15/858834870_18592817245071919_4067456188578887828_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VUGn7FHjHQ8Q7kNvwHHdskt&_nc_oc=AdpkZsGO7NZIZ8LAODyM-Aiz9GXnWcwp_6F47J7WIFUKyGxWmrKy-9XZtq16qbkblvo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=pwsmDcW_goYQdl_Na0NCqQ&_nc_ss=7ca8c&oh=00_AQMOAjjAhTUDQ9dMWtZjKO4Vs9L7A6ug7YggKycUyXis8w&oe=6AE4C4AD",
+            "btitle": "Shift Media on Instagram: \"Pelajar asal Meksiko, Ángela Karime Venegas Hernández, berhasil meraih medali emas...",
+            "bdescription": "27K likes, 608 comments - shiftmedia.id on October 22, 2026: \"Pelajar asal Meksiko, Ángela Karime Venegas Hernández, berhasil meraih medali emas dalam ajang International Science and Invention Fair (ISIF) 2026 yang digelar di Universitas...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.instagram.com/p/Dey-Xd5k6_H/"
+    },
+    {
+            "id": "2026-7",
+            "image": "https://scontent.cdninstagram.com/v/t51.82787-15/860419455_18641114116007706_1095406546462831835_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=i6pQeH0OE_YQ7kNvwGKPUsj&_nc_oc=AdrMciXIvyA0Qh-Iy8JkipFDzlpO5sMUdzNZ21vq597CrXVN14xBJF9YxCk5EP9tHq8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=mwZKllIai4L97RPmP53gXQ&_nc_ss=7ca8c&oh=00_AQMayovOpSOPjb5gQibd8JShKk59Mh52w0g-WTlgirfiIw&oe=6AE4B164",
+            "btitle": "Fakta Group | Fakta Indo on Instagram: \"Ángela Karime Venegas Hernández, siswi asal Tamaulipas, Meksiko, berhasil...",
+            "bdescription": "56K likes, 1,288 comments - fakta.indo on October 22, 2026: \"Ángela Karime Venegas Hernández, siswi asal Tamaulipas, Meksiko, berhasil meraih medali emas dalam ajang International Science and Invention Fair (ISIF) 2026 yang digelar di...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.instagram.com/p/DezFNA4mWSG/"
+    },
+    {
+            "id": "2026-8",
+            "image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1092901776885620",
+            "btitle": "Raíces Mexicanas",
+            "bdescription": "🇲🇽🥇 **A young Mexican student's innovative idea has earned international recognition, showing how curiosity and determination can open doors in the world of science!** 🔬🏆 Remember Ángela Karime...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.facebook.com/RaicesMexicanass/posts/-a-young-mexican-students-innovative-idea-has-earned-international-recognition-s/1092901793552285/"
+    },
+    {
+            "id": "2026-9",
+            "image": "https://ftnews.co.id/storage/comp/ajang-indonesian-young-scientist-association-iysa-2026-1-191020265.webp",
+            "btitle": "25 Negara Bersaing di ISIF 2026, Rebut Peluang Emas Golden Ticket Kuliah di UI",
+            "bdescription": "Ajang kompetisi riset dan inovasi International Science and Invention Fair (ISIF) ke-8 tahun 2026 yang diselenggarakan oleh IYSA bekerja sama dengan Universitas Indonesia (UI) resmi digelar di Balai Purnomo Prawiro FISIP UI.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://ftnews.co.id/25-negara-bersaing-di-isif-2026-rebut-peluang-emas-golden-ticket-kuliah-di-ui"
+    },
+    {
+            "id": "2026-10",
+            "image": "https://ftnews.co.id/storage/comp/ajang-indonesian-young-scientist-association-iysa-2026-3-191020261.webp",
+            "btitle": "Dari Sisa Pangan MBG hingga Karhutla: Solusi Cerdas Inovator Muda di ISIF 2026 Jawab Isu Nasional",
+            "bdescription": "Ajang International Science and Invention Fair (ISIF) ke-8 tahun 2026 di Balai Purnomo Prawiro FISIP UI Depok tidak hanya menjadi pameran teknologi global tetapi juga menjawab berbagai isu strategis nasional.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://ftnews.co.id/dari-sisa-pangan-mbg-hingga-karhutla-solusi-cerdas-inovator-muda-di-isif-2026-jawab-isu-nasional"
+    },
+    {
+            "id": "2026-11",
+            "image": "https://indopop.id/storage/media/900x500/2026/10/isif-di-ui-161020268.webp",
+            "btitle": "ISIF 2026 di UI, Panggung Anak Muda dari 25 Negara Unjuk Karya",
+            "bdescription": "ISIF 2026 di UI jadi wadah generasi muda dari 25 negara unjuk inovasi dan penelitian. Simak kategori, jadwal, dan hadiahnya.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://indopop.id/isif-2026-di-ui-panggung-anak-muda-dari-25-negara-unjuk-karya"
+    },
+    {
+            "id": "2026-12",
+            "image": "https://thumbs.tvonenews.com/thumbnail/2026/10/09/6ac87b3cc994a-antusiasme-warga-beratur-di-warung-nasi-padang-kamsur-jaya-klender-jakarta-timur_412_232.jpg",
+            "btitle": "Riset Technolegal Inovasi Akuntabilitas Sektor Informal Raih Medali Emas Ajang ISIF 2026 di Universitas Indonesia",
+            "bdescription": "Ajang kompetisi Invensi Internasional 8th International Science and Invention Fair (ISIF) 2026 resmi dimulai sejak Selasa, 6 Oktober 2026.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.tvonenews.com/daerah/jabar/472032-riset-technolegal-inovasi-akuntabilitas-sektor-informal-raih-medali-emas-ajang-isif-2026-di-universitas-indonesia"
+    },
+    {
+            "id": "2026-13",
+            "image": "https://p16-sharing-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/ca4fc241689344918eb9b9f752ee470d~tplv-photomode-share-video-common:600:828:20:tos-alisg-i-photomode-sg/smartui/button/play-icon-large.png:::::.jpeg?dr=14555&refresh_token=a7ebc4f1&x-expires=1824526800&x-signature=X4U2J4GwM4ZYwbDwlNgQDBP%2F8Qw%3D&t=4d5b0474&ps=13740610&shp=55bbe6a9&shcp=9dfa7f7f&idc=my&ftpl=1",
+            "btitle": "Inovasi Peneliti Muda di ISIF 2026 - Daily You Media",
+            "bdescription": "Liputan video inovasi dan riset pelajar di ajang International Science and Invention Fair (ISIF) 2026.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://vt.tiktok.com/ZSgPPBLn8/"
+    },
+    {
+            "id": "2026-14",
+            "image": "https://image.idn.media/post/20261021/jizzy-anak-vino-g_9e517c28-daf8-4522-99c2-3fb39b8ba52d.jpg",
+            "btitle": "Jizzy Anak Vino G. Bastian Raih Medali Emas di ISIF UI 2026",
+            "bdescription": "Jizzy Pearl Bastian meraih medali emas di ISIF UI 2026 bersama teman-temannya. Kompetisi ini diikuti 1.562 tim dari 25 negara.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.popmama.com/big-kid/10-12-years-old/jizzy-anak-vino-g-bastian-raih-medali-emas-di-isif-ui-2026-d1m4s-00-1xg6q-grbl7y"
+    },
+    {
+            "id": "2026-15",
+            "image": "https://asset.kompas.com/crops/OW1pNkf9DzQiyh2S3MHjRf_s3fA=/0x0:0x0/1200x675/filters:watermark(data/photo/2026/01/30/697c819b2dbec.png,0,-0,1)/data/photo/2026/10/20/6ad7143f80a4e.jpg",
+            "btitle": "Anak Vino G Bastian Raih Medali Emas di Kompetisi Penelitian Internasional",
+            "bdescription": "Anak artis Vino G Bastian dan Marsha Timothy, Jizzy Pearl Bastian, sukses meraih medali emas di ajang International Science and Invention Fair (ISIF).",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://edukasi.kompas.com/read/2026/10/20/164058371/anak-vino-g-bastian-raih-medali-emas-di-kompetisi-penelitian-internasional"
+    },
+    {
+            "id": "2026-16",
+            "image": "https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/pusat-pemberitaan/thumbs/xl_1792587619131846_fda31fc70a_berita_pusat-pemberitaan.webp",
+            "btitle": "Siswa MAN 2 Makassar Raih 8 Medali Emas di ISIF 2026 UI, Kalahkan Ratusan Tim Dunia - RRI.co.id",
+            "bdescription": "Tim riset Madrasah Aliyah Negeri (MAN) 2 Kota Makassar berhasil memboyong 11 penghargaan dalam ajang International Science and Invention Fair (ISIF) 2026. Kompetisi riset dan inovasi bergengsi tersebut berlangsung di kampus Universitas...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://rri.co.id/internasional/2831327/siswa-man-2-makassar-raih-8-medali-emas-di-isif-2026-ui-kalahkan-ratusan-tim-dunia"
+    },
+    {
+            "id": "2026-17",
+            "image": "https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/bengkulu/thumbs/xl_1792398828464539_75b7e67674_berita_bengkulu.webp",
+            "btitle": "Inovasi AI Siswa MAN IC Bengkulu Tengah Raih Emas di ISIF 2026 - RRI.co.id",
+            "bdescription": "Siswa-siswi Provinsi Bengkulu mendunia! setelah prestasi membanggakan kembali ditorehkan siswa madrasah di kancah internasional. Kali ini, siswa-siswi Madrasah Aliyah Negeri Insan Cendekia (MAN IC) Bengkulu Tengah (Benteng) sukses...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://rri.co.id/bengkulu/regional/2824285/inovasi-ai-siswa-man-ic-bengkulu-tengah-raih-emas-di-isif-2026"
+    },
+    {
+            "id": "2026-18",
+            "image": "https://rri-portal-app-assets.obs.ap-southeast-4.myhuaweicloud.com/upload/berita/image/palangkaraya/thumbs/xl_1792413941247921_d2c4bc1fc9_berita_palangkaraya.webp",
+            "btitle": "Murid SMKN 4 Palangka Raya Raih Medali Perak di Ajang Internasional ISIF 2026 - RRI.co.id",
+            "bdescription": "Prestasi membanggakan kembali ditorehkan murid Kalimantan Tengah di kancah internasional. Seorang murid kelas X DKV 2 SMKN 4 Kota Palangka Raya, Marzhia Tesalonika, berhasil meraih Medali Perak dalam ajang International Science and...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://rri.co.id/palangkaraya/berita-lain/2824982/murid-smkn-4-palangka-raya-raih-medali-perak-di-ajang-internasional-isif-2026"
+    },
+    {
+            "id": "2026-19",
+            "image": "https://unair.ac.id/wp-content/uploads/2026/10/Ciptakan-Platform-Intervensi-Perilaku-Remaja-Mahasiswa-UNAIR-Raih-Silver-Medal-Kompetisi-Internasional-scaled.webp",
+            "btitle": "Ciptakan Platform Intervensi Perilaku Remaja, Mahasiswa UNAIR Raih Silver ISIF 8 - Universitas Airlangga",
+            "bdescription": "Tim mahasiswa Universitas Airlangga (UNAIR) meraih silver medal dalam International Science and Invention Fair (ISIF) ke-8 melalui Behavix, platform intervensi perilaku untuk membantu remaja meningkatkan regulasi diri dan mengenali risiko...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://unair.ac.id/ciptakan-platform-intervensi-perilaku-remaja-mahasiswa-unair-raih-silver-isif-8/"
+    },
+    {
+            "id": "2026-20",
+            "image": "https://assets-a1.kompasiana.com/items/album/2026/10/19/berita-aaibs-2048-x-2731-2026-10-19t110257-384-6ad5967ded6415455a6213f3.png?t=o&v=1200",
+            "btitle": "Alhamdulillah, Team Neuroflex Buktikan Kekuatan Ide dan Riset di ISIF 2026",
+            "bdescription": "Bagi Team Neuroflex, raihan Gold Medal di 8th ISIF 2026 diharapkan menjadi motivasi untuk terus mengembangkan kemampuan, memperdalam pengetahuan, dan",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.kompasiana.com/alazharasysyarifsumutaaibs/6ad596a0ed6415414f118db4/alhamdulillah-team-neuroflex-buktikan-kekuatan-ide-dan-riset-di-isif-2026"
+    },
+    {
+            "id": "2026-21",
+            "image": "https://assets-a1.kompasiana.com/items/album/2026/10/13/whatsapp-image-2026-10-12-at-09-01-40-6acd763934777c0da11e9995.jpeg?t=o&v=1200",
+            "btitle": "Membanggakan! Tim MAN 4 Bantul Raih Gold Medal di Ajang ISIF 2026",
+            "bdescription": "Membanggakan! Tim MAN 4 Bantul Raih Gold Medal di Ajang ISIF 2026",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.kompasiana.com/man4bantul3867/6acd7642c925c430834430e5/membanggakan-tim-man-4-bantul-raih-gold-medal-di-ajang-isif-2026"
+    },
+    {
+            "id": "2026-22",
+            "image": "https://disdik.kalteng.go.id/uploads/news/1792394289_cb433278af2b48b77e44.jpg",
+            "btitle": "SMAN 1 Palu Borong Empat Medali Emas ISIF 2026 - HARIAN MERCUSUAR",
+            "bdescription": "Tim Karya Ilmiah SMAN 1 Palu kembali mengukir prestasi membanggakan di tingkat internasional. Dalam ajang International Science and Invention Fair (ISIF) 2026, tim SMAN 1 Palu berhasil membawa pulang empat medali emas sekaligus dari...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://mercusuar.web.id/kota-palu/sman-1-palu-borong-empat-medali-emas-isif-2026/"
+    },
+    {
+            "id": "2026-23",
+            "image": "https://disdik.kalteng.go.id/uploads/settings/logo_1759300688.png",
+            "btitle": "Angkat Kearifan Lokal Dayak Lewat Riset Herbal, Murid SMKN 4 Palangka Raya Raih Medali Perak ISIF 2026",
+            "bdescription": "Website Resmi Dinas Pendidikan Provinsi Kalimantan Tengah, yang menampilkan, informasi layanan, data sekolah, kurikulum, pengumuman, akreditasi, dan program digitalisasi pendidikan.”",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://disdik.kalteng.go.id/berita/angkat-kearifan-lokal-dayak-lewat-riset-herbal-murid-smkn-4-palangka-raya-raih-medali-perak-isif-2026"
+    },
+    {
+            "id": "2026-24",
+            "image": "https://www.waspada.id/uploads/media/2026/10/1000769289-1792488741239-share-preview-1792488831740.jpg",
+            "btitle": "Siswa SMA Edu Global Medan Raih Medali Emas di Ajang Internasional ISIF 2026 | Waspada",
+            "bdescription": "MEDAN (Waspada.id): Prestasi membanggakan kembali ditorehkan siswa SMA Edu Global Medan di tingkat internasional. Enam siswa sekolah tersebut berhasil meraih",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.waspada.id/berita/siswa-sma-edu-global-medan-raih-medali-emas-di-ajang-internasional-isif-2026"
+    },
+    {
+            "id": "2026-25",
+            "image": "https://kaltengdaily.com/wp-content/uploads/2026/10/2110.10.Siswa_.jpeg",
+            "btitle": "Berawal dari Tanaman Kembang Sepatu, Enam Murid SMAN 2 Palangka Raya Raih Silver Medal di ISIF 2026",
+            "bdescription": "Berawal dari tanaman kembang sepatu yang tumbuh di lingkungan masyarakat,",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://kaltengdaily.com/kabar-terkini/berawal-dari-tanaman-kembang-sepatu-enam-murid-sman-2-palangka-raya-raih-silver-medal-di-isif-2026/"
+    },
+    {
+            "id": "2026-26",
+            "image": "https://cdn.suaramuhammadiyah.id/posts/2026/10/tim-saintis-sd-muhammadiyah-sapen-borong-13-emas-dan-6-perak-di-isif-2026-20261018093821.jpeg",
+            "btitle": "Tim Saintis SD Muhammadiyah Sapen Borong 13 Emas dan 6 Perak di ISIF 2026",
+            "bdescription": "DEPOK, Suara Muhammadiyah - SD Muhammadiyah Sapen Yogyakarta kembali menegaskan kiprahnya di panggung internasional melalui prestasi membanggakan dalam ajang International Sci...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://suaramuhammadiyah.id/read/tim-saintis-sd-muhammadiyah-sapen-borong-13-emas-dan-6-perak-di-isif-2026"
+    },
+    {
+            "id": "2026-27",
+            "image": "https://scontent.cdninstagram.com/v/t51.82787-15/858088683_18599260150071830_7982505272906537249_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_4MwYnD2sysQ7kNvwE-k2k8&_nc_oc=AdoVwePLYIuiNYYcVslwv9rNla1YaNuA9DWeEFzc3xGiAY7TZ9Eu0v11B3GGqxX5h90&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=AQSEbsCAoS-qCqTlJsQdHQ&_nc_ss=7ca8c&oh=00_AQPSGT-rPnjzpvtnkPu8nRYKgJxa9s_n22Cf_oq7CMtHaQ&oe=6AE4BF7E",
+            "btitle": "InsertLive on Instagram: \"Prestasi membanggakan datang dari putri Vino G Bastian dan Marsha Timothy, Jizzy Pearl...",
+            "bdescription": "3,916 likes, 14 comments - insertlive on October 21, 2026: \"Prestasi membanggakan datang dari putri Vino G Bastian dan Marsha Timothy, Jizzy Pearl Bastian. Jizzy sukses membawa pulang medali emas dari ajang International Science and...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.instagram.com/p/DeyV_ixE3bd/"
+    },
+    {
+            "id": "2026-28",
+            "image": "https://pwmu.co/wp-content/uploads/2026/10/konsep-otomatis-7127f8.jpeg",
+            "btitle": "Enam Siswa SMP Abdul Malik Fadjar Raih Gold Medal di Ajang ISIF 2026",
+            "bdescription": "Prestasi membanggakan kembali ditorehkan siswa SMP Abdul Malik Fadjar. Enam siswa berhasil meraih Gold Medal dalam ajang International Science Innovation Fair (ISIF) ke-3 melalui karya inovatif berjudul “The City of Castovia: A Quadruple...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://pwmu.co/enam-siswa-smp-abdul-malik-fadjar-raih-gold-medal-di-ajang-isif-2026/"
+    },
+    {
+            "id": "2026-29",
+            "image": "https://static.republika.co.id/uploads/images/kanal_slide/enam-siswa-sd-muhammadiyah-sapen-yogyakarta-yakni-adeeva-alya_261018134351-305.jpg",
+            "btitle": "Inovasi Board Game Anti-Bullying Berbasis NFC, SD Muhammadiyah Sapen Raih Emas pada ISIF 2026 |Republika Online",
+            "bdescription": "Permainan ini tidak hanya bertujuan meningkatkan kesadaran terhadap perundungan.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://rejogja.republika.co.id/berita/tn3c20291/inovasi-board-game-antibullying-berbasis-nfc-sd-muhammadiyah-sapen-raih-emas-pada-isif-2026"
+    },
+    {
+            "id": "2026-30",
+            "image": "https://pwmu.co/wp-content/uploads/2026/10/konsep-otomatis-198122.webp",
+            "btitle": "Dua Tim Peneliti Cilik Muhida Sabet Gold Medal dalam ISIF - PWMU.CO",
+            "bdescription": "Prestasi membanggakan kembali ditorehkan oleh siswa-siswi SD Muhammadiyah 1 Pucanganom Sidoarjo (Muhida). Dua tim terbaik peneliti cilik Muhida berhasil menyabet Gold Medal dalam ajang International Science and Invention Fair (ISIF) 2026,...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://pwmu.co/dua-tim-peneliti-cilik-muhida-sabet-gold-medal-dalam-isif/"
+    },
+    {
+            "id": "2026-31",
+            "image": "https://www.bengkulutoday.com/sites/default/files/article/2026-10/1002719249.jpg",
+            "btitle": "Dari Limbah Jadi Inovasi Energi, Siswa EST School Bengkulu Raih Medali Emas di ISIF 2026",
+            "bdescription": "BENGKULU – Berawal dari kepedulian terhadap lingkungan, kulit durian dan ampas teh yang kerap diangg",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.bengkulutoday.com/dari-limbah-jadi-inovasi-energi-siswa-est-school-bengkulu-raih-medali-emas-di-isif-2026"
+    },
+    {
+            "id": "2026-32",
+            "image": "https://www.ewarta.co/sites/default/files/article/2026/10/WhatsApp%20Image%202026-10-19%20at%2019.29.00.jpeg",
+            "btitle": "Siswa MAN IC Bengkulu Tengah Raih Emas, Perak, dan Perunggu di ISIF 2026",
+            "bdescription": "BENGKULU TENGAH, eWarta.co – Siswa Madrasah Aliyah Negeri Insan Cendekia (MAN IC) Bengkulu Tengah menorehkan prestasi di ajang internasional International Science and Invention Fair (ISIF) 2026. Mereka berhasil meraih medali emas, perak,...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://www.ewarta.co/siswa-man-ic-bengkulu-tengah-raih-emas-perak-dan-perunggu-di-isif-2026"
+    },
+    {
+            "id": "2026-33",
+            "image": "https://aktualita.co/storage/previews/aktualita-v1/89/89fe68fd499c3c3156a0662e449022e70b96f57e8eda919ee2b46ebc745af35e.jpg",
+            "btitle": "Siswa SMAN 8 Jakarta Raih Emas ISIF 2026, Ciptakan Teknologi Pemantau Keamanan Makanan Warung",
+            "bdescription": "Siswa SMAN 8 Jakarta, Ajeng Salma Layla Amira, meraih emas di ISIF 2026 dengan menciptakan teknologi IoT pemantau keamanan makanan warung.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://aktualita.co/pendidikan/siswa-sman-8-jakarta-raih-emas-isif-2026-teknologi-iot"
+    },
+    {
+            "id": "2026-34",
+            "image": "https://radarjatim.id/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-09-at-21.06.58.jpeg",
+            "btitle": "SMP SAIM Raih Medali Emas dan Perak pada Kompetisi Internasional ISIF 2026",
+            "bdescription": "SURABAYA (RadarJatim.id) – Siswa SMP SAIM Surabaya sukses merebut dua medali internasional di ajang olimpiade International Science and Invention Fair",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://radarjatim.id/smp-saim-raih-medali-emas-dan-perak-pada-kompetisi-internasional-isif-2026/"
+    },
+    {
+            "id": "2026-35",
+            "image": "https://waspada.co.id/wp-content/uploads/2026/10/siswa-sman-1-medan.jpg",
+            "btitle": "Siswa SMAN 1 Medan Raih Medali Emas di Kompetisi ISIF 2026",
+            "bdescription": "MEDAN, Waspada.co.id - Siswi SMA Negeri 1 Medan berhasil meraih medali emas di kompetisi international Science and Inovation Fair (ISIF)",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://waspada.co.id/siswa-sman-1-medan-raih-medali-emas-di-kompetisi-isif-2026/"
+    },
+    {
+            "id": "2026-36",
+            "image": "https://asset.tribunnews.com/zCrHQAGprTD7_jwh283duReVuqs=/1200x675/filters:upscale():quality(30):format(webp):focal(0.5x0.5:0.5x0.5)/aceh/foto/bank/originals/Tim-RIAB-berhasil-meraih-Medali-Emas-di-Bidang-Environment-pada-ajang-ISIF-2026.jpg",
+            "btitle": "Tim Riset RIAB Raih Medali Emas di Ajang Internasional ISIF 2026 - Serambinews.com",
+            "bdescription": "Prestasi internasional kembali ditorehkan santri Ruhul Islam Anak Bangsa (RIAB). Pada ajang International Science and Invention Fair (ISIF) 2026...",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://aceh.tribunnews.com/news/1050072/tim-riset-riab-raih-medali-emas-di-ajang-internasional-isif-2026"
+    },
+    {
+            "id": "2026-37",
+            "image": "https://cdn.banyumasekspres.id/wp-content/uploads/2026/10/tim-riset-man-2-sabet-medali-dari-ajang-isif-2026.jpg",
+            "btitle": "MAN 2 Kebumen Raih Medali Perak di ISIF 2026 Berkat Inovasi Pengolahan Limbah Batik – BANYUMASEKSPRES.ID",
+            "bdescription": "KEBUMEN – Tim riset MAN 2 Kebumen berhasil meraih medali perak atau Silver Medal dalam ajang International Science and Invention Fair (ISIF) 2026. Prestasi ters",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://banyumasekspres.id/man-2-kebumen-raih-medali-perak-di-isif-2026-berkat-inovasi-pengolahan-limbah-batik/"
+    },
+    {
+            "id": "2026-38",
+            "image": "https://brito.id/uploads/images/2026/10/image_750x500_6ad372d1cab34.jpg",
+            "btitle": "Banggakan Indonesia, KGPH Prabu Mahaputra Narendra dan Tim Sabet Medali Emas di Ajang Internasional ISIF 2026",
+            "bdescription": "KGPH Prabu Mahaputra Narendra (Gusti Syendra) beserta tim dari SMA Islam Al Azhar 34 Yogyakarta sukses meraih Medali Emas dalam ajang bergengsi International Science and Invention Fair (ISIF) 2026 di Universitas Indonesia.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://brito.id/banggakan-indonesia-kgph-prabu-mahaputra-narendra-dan-tim-sabet-medali-emas-di-ajang-internasional-isif-2026"
+    },
+    {
+            "id": "2026-39",
+            "image": "https://cdn-jjmn.jawapos.com/images/23/2026/10/18/pada-ajang-isif-2026-kontingen-peneliti-muda-dari-bumi-tambun-bungai-ini-memborong-4-medali-emas-dan-2-medali-perak-upwhM.webp",
+            "btitle": "Komunitas Peneliti Belia Kalteng Menyabet 4 Emas dan 2 Perak di ISIF 2026",
+            "bdescription": "Pada ajang ISIF 2026 yang dipusatkan di Universitas Indonesia, peneliti muda berhasil meraih medali emas dan perak.",
+            "Month": "OCT",
+            "Year": "2026",
+            "Pagelink": "https://kaltengpos.jawapos.com/pendidikan/2610180001/komunitas-peneliti-belia-kalteng-menyabet-4-emas-dan-2-perak-di-isif-2026"
+    },
+    {
         "id": "2025-1",
         "image": "News/20251.jpg",
         "btitle": "NSIF, ISIF, NRTC, and IRTC 2025 Successfully Held, Featuring 774 Teams from 24 Countries",
