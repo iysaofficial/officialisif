@@ -9,7 +9,7 @@ export default function List2026() {
       label: "Elementary School",
       driveLink: {
         Online:
-          "https://drive.google.com/file/d/1mi0ULWVE37sELa6zMirhf-AwAxReijXZ/view?usp=sharing",
+          "https://drive.google.com/file/d/1j_6DBwNqBifcsGJVohZqbvZSMn4OrTYM/view?usp=sharing",
         Offline:
           "https://drive.google.com/file/d/1xQLw5CB04QA2aSA4n4knHDSR31D6eXmd/view?usp=sharing",
       },
@@ -18,7 +18,7 @@ export default function List2026() {
       label: "Secondary",
       driveLink: {
         Online:
-          "https://drive.google.com/file/d/1CB-I9N-S_AwKSBsA0EurNsa3_ZU7iAsm/view?usp=sharing",
+          "https://drive.google.com/file/d/1ehp_pvecAnT2L0ia-oguDzwgfuRzsqAi/view?usp=sharing",
         Offline:
           "https://drive.google.com/file/d/1xb80XthWMz9psReY1yeoCjZ2Zn0Jszrs/view?usp=sharing",
       },
