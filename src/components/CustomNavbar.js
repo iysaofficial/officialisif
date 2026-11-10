@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Link, NavLink } from "react-router-dom";
 import Sticky from "react-stickynode";
+import MenuKurasiDasbor from "./MenuKurasiDasbor";
 
 class CustomNavbar extends Component {
   render() {
@@ -160,6 +161,8 @@ class CustomNavbar extends Component {
                       Curation
                     </Link>
                     <ul role="menu" className=" dropdown-menu">
+                      {/* Edisi yang berkasnya ada di dasbor (2026 dst.) — tahun lama tetap Drive. */}
+                      <MenuKurasiDasbor />
                       <li className="nav-item">
                         <a
                           href="https://drive.google.com/drive/folders/1ihGVWoBzJgm7mVmlKRh7wylGBt_LH-rp?usp=sharing"

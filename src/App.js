@@ -30,6 +30,7 @@ import Thankyouinter from "./Pages/registration/thankyouinter";
 import InternationalOnline from "./Pages/registration/inter-online";
 import InternationalOffline from "./Pages/registration/inter-offline";
 import CertSupervisor2026 from "./Pages/registration/certsupervisor2026";
+import CurationTahun from "./Pages/Curation/CurationTahun";
 
 class App extends Component {
   componentDidMount() {
@@ -55,6 +56,7 @@ class App extends Component {
           <ScrollToTopRoute path="/PageNews6" component={PageNews6} />
 
           <ScrollToTopRoute path="/Faq" component={Faq} />
+          <ScrollToTopRoute path="/Curation/:tahun" component={CurationTahun} />
           
           {/* REGIST */}
           <ScrollToTopRoute path="/Homeregist" component={RegistHome} />
