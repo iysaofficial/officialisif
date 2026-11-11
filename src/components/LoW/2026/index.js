@@ -18,7 +18,7 @@ export default function List2026() {
       label: "Secondary",
       driveLink: {
         Online:
-          "https://drive.google.com/file/d/1ehp_pvecAnT2L0ia-oguDzwgfuRzsqAi/view?usp=sharing",
+          "https://drive.google.com/file/d/1yqhYWMM1BffABg95RJY-YrCtFuC8Rqeh/view?usp=sharing",
         Offline:
           "https://drive.google.com/file/d/1xb80XthWMz9psReY1yeoCjZ2Zn0Jszrs/view?usp=sharing",
       },
@@ -27,7 +27,7 @@ export default function List2026() {
       label: "University",
       driveLink: {
         Online:
-          "https://drive.google.com/file/d/1ZYKMB1RZT3XDKD0cANv7cHoH90XKKoP7/view?usp=sharing",
+          "https://drive.google.com/file/d/1XZGzRg5hVglTgwdDslFu6mLgjWF5vfZz/view?usp=sharing",
         Offline:
           "https://drive.google.com/file/d/1PP7MBJu1a3uBtXOgCv2pLCGRyzmpYcL3/view?usp=sharing",
       },
